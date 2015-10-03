@@ -20,7 +20,7 @@
    preserveAspectRatio="xMinYMin meet"
    text-rendering="optimizeSpeed"
    shape-rendering="optimizeSpeed"
-   sodipodi:docname="maxiv.svg">
+   sodipodi:docname="linac.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0000001"
-     inkscape:cx="12403.715"
-     inkscape:cy="7724.9616"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="13922.856"
+     inkscape:cy="8151.3876"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer12"
      showgrid="true"
      units="px"
      width="1800"
@@ -155,8 +155,7 @@
          inkscape:groupmode="layer"
          id="layer3"
          class="zoom level0"
-         inkscape:label="zoom0"
-         style="display:inline">
+         inkscape:label="zoom0">
         <image
            sodipodi:absref="/home/johfor/Dropbox/progg/tango-svgsynoptic/beamlinesMAXXIV.png"
            xlink:href="file:///home/johfor/Dropbox/progg/tango-svgsynoptic/beamlinesMAXXIV.png"
@@ -334,7 +333,7 @@
          id="layer2"
          class="zoom level1"
          inkscape:label="zoom1"
-         style="display:inline">
+         style="display:none">
         <path
            style="fill:#800080;fill-opacity:0.49803922;stroke:none"
            d="m 2500,1670 -630,630 0,210 55,0 33.4688,0 71.5312,0 0,-71.5312 0,-38.4688 100,-100 30,0 485,-485 z"
@@ -559,7 +558,7 @@
            x="1470.2148"
            y="2300">
           <desc
-             id="desc9346-8">section=I-01</desc>
+             id="desc9346-8">section=I-GS00</desc>
         </rect>
         <text
            sodipodi:linespacing="125%"
@@ -4425,7 +4424,7 @@
            style="display:inline"
            id="use4614-9-5">
           <desc
-             id="desc4616-2-5">model=I-SP02/DIA/CT-01</desc>
+             id="desc4616-2-5">model=I-SP02/DIA/CT-02</desc>
         </use>
         <text
            transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
@@ -4438,7 +4437,7 @@
              y="-8633.9189"
              x="11345.132"
              id="tspan4905-0-4-8"
-             sodipodi:role="line">CT1</tspan></text>
+             sodipodi:role="line">CT2</tspan></text>
         <use
            transform="translate(11306.328,-69.84429)"
            height="10000"
@@ -5893,7 +5892,7 @@
         </use>
         <g
            id="use21723"
-           transform="matrix(-0.70710459,0.70710459,0.70710459,0.70710459,2312.754,-1042.7016)">
+           transform="matrix(-0.70710459,0.70710459,0.70710459,0.70710459,2326.004,-1012.7016)">
           <desc
              id="desc22975">model=I-GR00/MAG/COIY-01</desc>
           <g
@@ -5909,7 +5908,7 @@
           </g>
         </g>
         <g
-           transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,2356.7948,-995.91452)"
+           transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,2371.7948,-1010.4145)"
            id="use21743">
           <desc
              id="desc20578">model=I-GR00/MAG/COIX-01</desc>
@@ -5931,7 +5930,7 @@
         </g>
         <g
            id="use21763"
-           transform="matrix(-0.70710459,0.70710459,0.70710459,0.70710459,2213.9443,-944.22876)">
+           transform="matrix(-0.70710459,0.70710459,0.70710459,0.70710459,2220.3083,-910.64119)">
           <desc
              id="desc22977">model=I-GR00/MAG/COIY-02</desc>
           <g
@@ -5947,7 +5946,7 @@
           </g>
         </g>
         <g
-           transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,2259.3235,-899.46145)"
+           transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,2266.041,-906.17897)"
            id="use21783">
           <desc
              id="desc22979">model=I-GR00/MAG/COIX-02</desc>
@@ -6007,7 +6006,7 @@
         </g>
         <g
            id="use21843"
-           transform="matrix(-0.70710459,0.70710459,0.70710459,0.70710459,2056.8147,-787.09923)">
+           transform="matrix(-0.70710459,0.70710459,0.70710459,0.70710459,2068.8147,-759.59923)">
           <desc
              id="desc22985">model=I-GR00/MAG/COIY-03</desc>
           <g
@@ -6023,7 +6022,7 @@
           </g>
         </g>
         <g
-           transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,2100.9765,-741.11447)"
+           transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,2114.7265,-754.11447)"
            id="use21863">
           <desc
              id="desc22987">model=I-GR00/MAG/COIX-03</desc>
@@ -7253,48 +7252,48 @@
              y="2199.0952">SOLT2</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:11.25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:'DejaVu Sans, Semi-Condensed'"
-           x="2130"
-           y="2145"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:11.25px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           x="2138.75"
+           y="2133.25"
            id="text22368"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan22370"
-             x="2130"
-             y="2145">COIX3</tspan></text>
+             x="2138.75"
+             y="2133.25">COIX3</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:11.25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:'DejaVu Sans, Semi-Condensed'"
-           x="2150"
-           y="2125"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:11.25px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           x="2211"
+           y="2165.25"
            id="text22372"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan22374"
-             x="2150"
-             y="2125">COIY3</tspan></text>
+             x="2211"
+             y="2165.25">COIY3</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:11.25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:'DejaVu Sans, Semi-Condensed'"
-           x="2272.8064"
-           y="1994.0952"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:11.25px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           x="2291.8984"
+           y="1979.2461"
            id="text22384"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan22386"
-             x="2272.8064"
-             y="1994.0952">COIX2</tspan></text>
+             x="2291.8984"
+             y="1979.2461">COIX2</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:11.25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:'DejaVu Sans, Semi-Condensed'"
-           x="2298.1909"
-           y="1974.0952"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:11.25px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           x="2359.0022"
+           y="2009.8041"
            id="text22388"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan22390"
-             x="2298.1909"
-             y="1974.0952">COIY2</tspan></text>
+             x="2359.0022"
+             y="2009.8041">COIY2</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:11.25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:'DejaVu Sans, Semi-Condensed'"
@@ -7308,26 +7307,26 @@
              y="1939.0952">SOLT1</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:11.25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:'DejaVu Sans, Semi-Condensed'"
-           x="2372.7651"
-           y="1894.0952"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:11.25px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           x="2393.2651"
+           y="1875.5952"
            id="text22400"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan22402"
-             x="2372.7651"
-             y="1894.0952">COIX1</tspan></text>
+             x="2393.2651"
+             y="1875.5952">COIX1</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:11.25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:'DejaVu Sans, Semi-Condensed'"
-           x="2393.1497"
-           y="1874.0952"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:11.25px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           x="2466.3997"
+           y="1908.3452"
            id="text22404"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan22406"
-             x="2393.1497"
-             y="1874.0952">COIY1</tspan></text>
+             x="2466.3997"
+             y="1908.3452">COIY1</tspan></text>
         <g
            transform="matrix(0.99144486,-0.13052619,0.13052619,0.99144486,1869.1789,285.17782)"
            id="g4586">
@@ -7648,39 +7647,39 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:11.25px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-           x="2948.5671"
-           y="491.14124"
+           x="2954.5671"
+           y="485.14124"
            id="text22320-7"
            sodipodi:linespacing="125%"
            transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"><tspan
              sodipodi:role="line"
-             x="2948.5671"
-             y="491.14124"
-             id="tspan4165">COIY1</tspan></text>
+             x="2954.5671"
+             y="485.14124"
+             id="tspan4165">COBY1</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:11.25px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-           x="2973.3201"
-           y="466.42957"
+           x="2977.8201"
+           y="461.92957"
            id="text22320-7-3"
            sodipodi:linespacing="125%"
            transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"><tspan
              sodipodi:role="line"
              id="tspan22322-4-4"
-             x="2973.3201"
-             y="466.42957">COIX1</tspan></text>
+             x="2977.8201"
+             y="461.92957">COBX1</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:11.25px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-           x="2893.9685"
-           y="544.17426"
+           x="2899.9685"
+           y="538.17426"
            id="text22320-7-3-9"
            sodipodi:linespacing="125%"
            transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"><tspan
              sodipodi:role="line"
              id="tspan22322-4-4-5"
-             x="2893.9685"
-             y="544.17426">SOLA1</tspan></text>
+             x="2899.9685"
+             y="538.17426">SOLA1</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:11.25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:'DejaVu Sans, Semi-Condensed'"
@@ -10312,6 +10311,60 @@
           <desc
              id="desc7927">model=R3-301L/MAG/SM3B-01</desc>
         </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use21763"
+           id="use24211"
+           transform="translate(-57.629201,56.214987)"
+           width="100%"
+           height="100%">
+          <desc
+             id="desc24231">model=I-GR00/MAG/COIY-04</desc>
+        </use>
+        <g
+           id="g24213"
+           transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,2209.1188,-848.90333)">
+          <desc
+             id="desc24215">model=I-GR00/MAG/COIX-04</desc>
+          <g
+             transform="translate(-2.8749,-48.7499)"
+             id="g24217">
+            <g
+               id="g24219">
+              <use
+                 transform="translate(-746.99999,227.99999)"
+                 height="10000"
+                 width="17000"
+                 y="0"
+                 x="0"
+                 xlink:href="#symbol30062"
+                 id="use24221" />
+            </g>
+          </g>
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text24223"
+           y="2069.2012"
+           x="2303.1406"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:11.25px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             y="2069.2012"
+             x="2303.1406"
+             id="tspan24225"
+             sodipodi:role="line">COIY4</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text24227"
+           y="2035.1075"
+           x="2234.6226"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:11.25px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             y="2035.1075"
+             x="2234.6226"
+             id="tspan24229"
+             sodipodi:role="line">COIX4</tspan></text>
       </g>
     </g>
     <g
@@ -10773,7 +10826,7 @@
              y="2103.3496">IPD19</tspan></text>
         <path
            style="fill:none;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 2094.769,2112.2586 c -21.5847,-21.5847 39.1413,39.1413 54.462,54.462"
+           d="m 2102.269,2107.0086 c -21.5847,-21.5847 39.1413,39.1413 54.462,54.462"
            id="path20488"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cc" />
@@ -10958,7 +11011,7 @@
            y="0"
            width="17000"
            height="10000"
-           transform="translate(-662.84399,111)">
+           transform="translate(-654.09399,104.5)">
           <desc
              id="desc20486">model=I-K00/VAC/IPCUA-19
 </desc>
@@ -11482,15 +11535,15 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:11.25px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-           x="2920.8027"
-           y="515.8927"
+           x="2927.0527"
+           y="509.6427"
            id="text22320-7-3-9-9-0-5"
            sodipodi:linespacing="125%"
            transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"><tspan
              sodipodi:role="line"
              id="tspan22322-4-4-5-4-8-6"
-             x="2920.8027"
-             y="515.8927">VGMC1</tspan></text>
+             x="2927.0527"
+             y="509.6427">VGMC1</tspan></text>
         <use
            style="display:inline"
            x="0"

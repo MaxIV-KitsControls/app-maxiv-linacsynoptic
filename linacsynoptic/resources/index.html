@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="css/quicklinks.css" />  
   <link rel="stylesheet" href="css/tango.css" />
   <link rel="stylesheet" href="css/tooltip.css" />
+  <link rel="stylesheet" href="css/thumbnail.css" />
 </head>
 
 
@@ -24,7 +25,8 @@
   <script src="js/util.js"></script>
   <script src="js/view.js"></script>
   <script src="js/layers.js"></script>
-  <script src="js/quicklinks.js"></script>  
+  <script src="js/quicklinks.js"></script>
+  <script src="js/thumbnail.js"></script>  
   <script src="js/tooltip.js"></script>
   <script src="js/synoptic.js"></script>
   <script src="js/ring.js"></script>
@@ -40,8 +42,11 @@
         var config = {
             view: {
                 // see view.js for documentation
-                zoomSteps: [1, 10, 100]
+                zoomSteps: [1, 10, 50]
             },
+            thumbnail: {
+                size: "20%"
+            }
         };
         
         // loadSVG is a convenience method for loading a file.  Note
