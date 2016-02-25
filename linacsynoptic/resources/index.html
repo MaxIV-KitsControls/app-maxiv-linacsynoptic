@@ -14,7 +14,7 @@
 <body oncontextmenu="return false;">
 
   <div id="view">
-    <img class="logo" src="images/maxiv_logo.png"></div>
+    <img class="logo" src="${path}/images/maxiv_logo.png"></div>
   </div>
 
   <script src="js/libs/d3.js" charset="utf-8"></script>
@@ -42,7 +42,7 @@
         var config = {
             view: {
                 // see view.js for documentation
-                zoomSteps: [1, 10, 50]
+                zoomSteps: [1, 8, 50]
             },
             thumbnail: {
                 size: "20%"
@@ -51,8 +51,9 @@
         
         // loadSVG is a convenience method for loading a file.  Note
         // that we need to give the absolute path to the file. ${path}
-        // will be replaced with the path to this HTML file.        
-        loadSVG("${path}/images/linac.svg", config);
+        // will be replaced with the path to this HTML file.
+        var container = document.getElementById("view");
+        loadSVG("${path}/images/linac.svg", container, config);
     });
   </script>
   
