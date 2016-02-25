@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=MAX IV Linac Synoptic
+Exec=ctlinacsynoptic
+Type=Application
+Categories=MAXIV
+Comment=The Linac synoptic, an overview of the linear accellerator control system
+Terminal=false

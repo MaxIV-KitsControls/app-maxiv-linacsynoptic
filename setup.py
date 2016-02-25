@@ -15,6 +15,7 @@ setup(
         'resources/index.html',
         'resources/images/*.svg',
         'resources/images/*.png']},
+    data_files=[('/usr/share/applications',['maxiv-linac-synoptic.desktop'])],
     entry_points={
         'console_scripts': [
             'ctlinacsynoptic = linacsynoptic.__main__:main'
