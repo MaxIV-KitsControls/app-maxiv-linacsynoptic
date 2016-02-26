@@ -6,12 +6,12 @@ from taurus.qt.qtgui.panel import TaurusDevicePanel
 # various widgets for specific devices
 from magnetpanel import MagnetPanel
 from maxwidgets.panel import MotorPresets
+from tgconf_beamviewer import panels
 
 
 CLASS_PANELS = {
     "Magnet": MagnetPanel,
-    # "IORegister": MotorPresets,
-    # "Motor": TaurusFormExpanding
+    "IORegister": MotorPresets,
 }
 
 
