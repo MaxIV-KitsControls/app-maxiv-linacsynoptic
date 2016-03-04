@@ -11290,7 +11290,7 @@
            y="0"
            xlink:href="#symbol-valve">
           <desc
-             id="desc27343">model=I-03/VAC/VGMB-01</desc>
+             id="desc27343">model=I-S03A/VAC/VGMB-01</desc>
         </use>
         <use
            height="10000"
@@ -11302,7 +11302,7 @@
            y="0"
            xlink:href="#symbol-valve">
           <desc
-             id="desc27347">model=I-05/VAC/VGMB-01</desc>
+             id="desc27347">model=I-S05A/VAC/VGMB-01</desc>
         </use>
         <use
            height="10000"
@@ -11314,7 +11314,7 @@
            y="0"
            xlink:href="#symbol-valve">
           <desc
-             id="desc27351">model=I-04/VAC/VGMB-01</desc>
+             id="desc27351">model=I-S04A/VAC/VGMB-01</desc>
         </use>
         <use
            height="10000"
@@ -11326,7 +11326,7 @@
            y="0"
            xlink:href="#symbol-valve">
           <desc
-             id="desc27355">model=I-06/VAC/VGMB-01</desc>
+             id="desc27355">model=I-S06A/VAC/VGMB-01</desc>
         </use>
         <use
            height="10000"
@@ -11338,7 +11338,7 @@
            y="0"
            xlink:href="#symbol-valve">
           <desc
-             id="desc27363">model=I-07/VAC/VGMB-01</desc>
+             id="desc27363">model=I-S07A/VAC/VGMB-01</desc>
         </use>
         <use
            height="10000"
@@ -11350,7 +11350,7 @@
            y="0"
            xlink:href="#symbol-valve">
           <desc
-             id="desc27367">model=I-08/VAC/VGMB-01</desc>
+             id="desc27367">model=I-S08A/VAC/VGMB-01</desc>
         </use>
         <use
            height="10000"
@@ -11362,7 +11362,7 @@
            y="0"
            xlink:href="#symbol-valve">
           <desc
-             id="desc27371">model=I-09/VAC/VGMB-01</desc>
+             id="desc27371">model=I-S09A/VAC/VGMB-01</desc>
         </use>
         <text
            id="text4776"
@@ -11552,7 +11552,7 @@
            y="0"
            xlink:href="#symbol-valve">
           <desc
-             id="desc6565">model=I-10/VAC/VGMB-01</desc>
+             id="desc6565">model=I-S10A/VAC/VGMB-01</desc>
         </use>
         <use
            height="10000"
@@ -11564,7 +11564,7 @@
            y="0"
            xlink:href="#symbol-valve">
           <desc
-             id="desc6569">model=I-EX01/VAC/VGMB-01</desc>
+             id="desc6569">model=I-EX1/VAC/VGMB-01</desc>
         </use>
         <use
            height="10000"
@@ -11576,7 +11576,7 @@
            y="0"
            xlink:href="#symbol-valve">
           <desc
-             id="desc6827">model=I-11/VAC/VGMB-01</desc>
+             id="desc6827">model=I-S11A/VAC/VGMB-01</desc>
         </use>
         <use
            height="10000"
@@ -11588,7 +11588,7 @@
            y="0"
            xlink:href="#symbol-valve">
           <desc
-             id="desc7531">model=I-12/VAC/VGMB-01</desc>
+             id="desc7531">model=I-S12A/VAC/VGMB-01</desc>
         </use>
         <use
            height="10000"
@@ -11600,7 +11600,7 @@
            y="0"
            xlink:href="#symbol-valve">
           <desc
-             id="desc7535">model=I-13/VAC/VGMB-01</desc>
+             id="desc7535">model=I-S13A/VAC/VGMB-01</desc>
         </use>
         <use
            height="10000"
@@ -11612,7 +11612,7 @@
            y="0"
            xlink:href="#symbol-valve">
           <desc
-             id="desc7539">model=I-14/VAC/VGMB-01</desc>
+             id="desc7539">model=I-S14A/VAC/VGMB-01</desc>
         </use>
         <use
            height="10000"
@@ -11624,7 +11624,7 @@
            y="0"
            xlink:href="#symbol-valve">
           <desc
-             id="desc7543">model=I-15/VAC/VGMB-01</desc>
+             id="desc7543">model=I-S15A/VAC/VGMB-01</desc>
         </use>
         <use
            height="10000"
@@ -11636,7 +11636,7 @@
            y="0"
            xlink:href="#symbol-valve">
           <desc
-             id="desc7547">model=I-16/VAC/VGMB-01</desc>
+             id="desc7547">model=I-S16A/VAC/VGMB-01</desc>
         </use>
         <use
            height="10000"
@@ -11648,7 +11648,7 @@
            y="0"
            xlink:href="#symbol-valve">
           <desc
-             id="desc7559">model=I-18/VAC/VGMB-01</desc>
+             id="desc7559">model=I-S18A/VAC/VGMB-01</desc>
         </use>
         <text
            id="text6829"
@@ -12572,7 +12572,7 @@
            y="1811.4766"
            sodipodi:linespacing="125%"
            xml:space="preserve"><desc
-             id="desc4996-2-3">model=I-SP2/VAC/IPBG-02/Pressure</desc><tspan
+             id="desc4996-2-3">model=I-SP02/VAC/IPG-02/Pressure</desc><tspan
              id="tspan4998-6-8"
              x="12984.761"
              y="1811.4766"
@@ -12587,7 +12587,7 @@
            y="0"
            xlink:href="#symbol10455">
           <desc
-             id="desc5002-7-1">model=I-SP02/VAC/IPBG-02
+             id="desc5002-7-1">model=I-SP02/VAC/IPG-02
 </desc>
         </use>
         <text
@@ -12697,7 +12697,7 @@
            y="1812.1431"
            sodipodi:linespacing="125%"
            xml:space="preserve"><desc
-             id="desc5012-3-7-3-9">model=I-SP2/VAC/IPFA-06/Pressure</desc><tspan
+             id="desc5012-3-7-3-9">model=I-SP02/VAC/IPFA-06/Pressure</desc><tspan
              id="tspan5014-1-8-8-8"
              x="14205.119"
              y="1812.1431"
