@@ -18,7 +18,7 @@
    viewBox="0 0 17000 10000"
    width="17000"
    sodipodi:docname="linac.svg"
-   inkscape:version="0.47 r22583">
+   inkscape:version="0.48.4 r9939">
   <sodipodi:namedview
      bordercolor="#666666"
      borderopacity="1.0"
@@ -30,9 +30,9 @@
      width="1800"
      inkscape:bbox-nodes="false"
      inkscape:bbox-paths="true"
-     inkscape:current-layer="layer3"
-     inkscape:cx="13013.426"
-     inkscape:cy="7913.5374"
+     inkscape:current-layer="layer12"
+     inkscape:cx="8828.2897"
+     inkscape:cy="7772.5591"
      inkscape:document-units="px"
      inkscape:guide-bbox="true"
      inkscape:object-nodes="true"
@@ -54,12 +54,12 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-text-baseline="true"
      inkscape:snap-to-guides="true"
-     inkscape:window-height="553"
+     inkscape:window-height="816"
      inkscape:window-maximized="0"
-     inkscape:window-width="886"
-     inkscape:window-x="341"
-     inkscape:window-y="181"
-     inkscape:zoom="0.50000001">
+     inkscape:window-width="1355"
+     inkscape:window-x="2116"
+     inkscape:window-y="171"
+     inkscape:zoom="0.93498301">
     <inkscape:grid
        color="#0000ff"
        dotted="true"
@@ -248,10 +248,10 @@
         <rect
            height="920"
            id="rect6437"
-           style="opacity:0.25;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:110;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:0.25;fill:#00ffff;fill-opacity:1;stroke:none"
            width="1440"
-           x="1480"
-           y="1680">
+           x="1474"
+           y="1684">
           <desc
              id="desc6439">section=Gun area</desc>
         </rect>
@@ -2699,7 +2699,7 @@
            style="display:inline"
            transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,2253.6039,-967.23132)">
           <desc
-             id="desc19234">model=I-00/DIA/SCRN-02</desc>
+             id="desc19234">model=I-GR00/DIA/SCRN-02</desc>
           <use
              height="10000"
              id="use7866"
@@ -2997,7 +2997,7 @@
            y="0"
            xlink:href="#symbol12414">
           <desc
-             id="desc4177">model=I-04/DIA/SCRN-01</desc>
+             id="desc4177">model=I-S04A/DIA/SCRN-01</desc>
         </use>
         <use
            height="10000"
@@ -3057,7 +3057,7 @@
            y="0"
            xlink:href="#symbol12414">
           <desc
-             id="desc5179">model=I-01/DIA/SCRN-01</desc>
+             id="desc5179">model=I-S01A/DIA/SCRN-01</desc>
         </use>
         <use
            height="10000"
@@ -3153,7 +3153,7 @@
            y="0"
            xlink:href="#symbol12414">
           <desc
-             id="desc28541">model=I-07/DIA/SCRN-01</desc>
+             id="desc28541">model=I-S07A/DIA/SCRN-01</desc>
         </use>
         <use
            height="10000"
@@ -3227,7 +3227,7 @@
            y="0"
            xlink:href="#symbol12414">
           <desc
-             id="desc4262">model=I-00/DIA/SCRN-01</desc>
+             id="desc4262">model=I-GS00/DIA/SCRN-01</desc>
         </use>
         <use
            height="10000"
@@ -4506,7 +4506,7 @@
            y="0"
            xlink:href="#symbol12414">
           <desc
-             id="desc8488">model=I-12/DIA/SCRN-01</desc>
+             id="desc8488">model=I-S12A/DIA/SCRN-01</desc>
         </use>
         <use
            height="10000"
@@ -12897,7 +12897,7 @@
          style="display:inline"
          transform="translate(-725.49994,-220.50003)">
         <path
-           d="m 2710.2094,2040.4314 -8.9264,-5.4967 0.01,-9.4817 8.2585,-5.7503 9.1305,5.0022 -0.01,10.4817 -8.4626,5.2448 z"
+           d="m 2710.2094,2040.4314 -8.9264,-5.4967 0.01,-9.4817 8.2585,-5.7503 9.1305,5.0022 -0.01,10.4817 z"
            id="path17836"
            style="color:#000000;fill:#37c8ab;fill-opacity:1;fill-rule:nonzero;stroke:#2ca089;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            transform="matrix(1,0,0,1.430075,835.01935,-768.14829)"
@@ -13024,7 +13024,7 @@
          style="stroke-width:0.92195445;display:inline"
          transform="matrix(1,0,0,1.1764706,309.99947,-613.5294)">
         <path
-           d="m 2749.6096,2050.4667 -19.5769,-20.247 20.2781,-21.137 20.5208,20.2262 -21.222,21.1578 z"
+           d="m 2749.6096,2050.4667 -19.5769,-20.247 20.2781,-21.137 20.5208,20.2262 z"
            id="path17834"
            style="color:#000000;fill:#a365ff;fill-opacity:1;fill-rule:nonzero;stroke:#5500d4;stroke-width:1.44335282;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            transform="matrix(0.48001521,0,0,0.84999999,1229.9587,419.49999)"
@@ -13209,7 +13209,7 @@
            id="flowPara22571" /><flowPara
            id="flowPara22573" /></flowRoot>      <text
          id="text22587"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:15px;line-height:100%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:'DejaVu Sans, Semi-Condensed'"
          x="1831.4624"
          y="2230.9351"
          sodipodi:linespacing="100%"
@@ -13221,7 +13221,7 @@
            id="tspan23355"
            x="1833.6011"
            y="2245.9351"
-           sodipodi:role="line">I-00/VAC/SCRN-01 is supposed </tspan><tspan
+           sodipodi:role="line">I-GS00/DIA/SCRN-01 is supposed </tspan><tspan
            id="tspan22591"
            x="1831.4624"
            y="2260.9351"
