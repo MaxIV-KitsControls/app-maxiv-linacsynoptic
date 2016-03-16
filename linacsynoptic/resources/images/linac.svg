@@ -18,7 +18,7 @@
    viewBox="0 0 17000 10000"
    width="17000"
    sodipodi:docname="linac.svg"
-   inkscape:version="0.48.4 r9939">
+   inkscape:version="0.91 r13725">
   <sodipodi:namedview
      bordercolor="#666666"
      borderopacity="1.0"
@@ -30,9 +30,9 @@
      width="1800"
      inkscape:bbox-nodes="false"
      inkscape:bbox-paths="true"
-     inkscape:current-layer="layer12"
-     inkscape:cx="8828.2897"
-     inkscape:cy="7772.5591"
+     inkscape:current-layer="layer1"
+     inkscape:cx="2226.6132"
+     inkscape:cy="7703.1378"
      inkscape:document-units="px"
      inkscape:guide-bbox="true"
      inkscape:object-nodes="true"
@@ -54,12 +54,12 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-text-baseline="true"
      inkscape:snap-to-guides="true"
-     inkscape:window-height="816"
+     inkscape:window-height="1163"
      inkscape:window-maximized="0"
-     inkscape:window-width="1355"
-     inkscape:window-x="2116"
-     inkscape:window-y="171"
-     inkscape:zoom="0.93498301">
+     inkscape:window-width="1920"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:zoom="1.3222657">
     <inkscape:grid
        color="#0000ff"
        dotted="true"
@@ -2713,7 +2713,7 @@
            height="10000"
            id="use15561"
            style="display:inline"
-           transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,2735.9213,-1178.6557)"
+           transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,2732.7127,-1175.4471)"
            width="17000"
            x="0"
            y="0"
@@ -5858,7 +5858,7 @@
         <use
            height="10000"
            id="use20730"
-           transform="translate(-836.40218,303.85568)"
+           transform="translate(-844.15633,311.34245)"
            width="17000"
            x="0"
            y="0"
@@ -5928,7 +5928,7 @@
         </g>
         <g
            id="use21763"
-           transform="matrix(-0.70710459,0.70710459,0.70710459,0.70710459,2220.3083,-910.64119)">
+           transform="matrix(-0.70710459,0.70710459,0.70710459,0.70710459,2231.8058,-922.13873)">
           <desc
              id="desc22977">model=I-GR00/MAG/COIY-02</desc>
           <g
@@ -5945,7 +5945,7 @@
         </g>
         <g
            id="use21783"
-           transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,2266.041,-906.17897)">
+           transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,2277.5385,-917.67651)">
           <desc
              id="desc22979">model=I-GR00/MAG/COIX-02</desc>
           <g
@@ -5966,7 +5966,7 @@
         </g>
         <g
            id="use21803"
-           transform="matrix(-0.70710459,0.70710459,0.70710459,0.70710459,1951.0496,-681.3341)">
+           transform="matrix(-0.70710459,0.70710459,0.70710459,0.70710459,1958.0016,-648.98058)">
           <desc
              id="desc22989">model=I-GR00/MAG/COHY-01</desc>
           <g
@@ -5983,7 +5983,7 @@
         </g>
         <g
            id="use21823"
-           transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,1996.4365,-636.57444)">
+           transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,2003.6559,-643.25905)">
           <desc
              id="desc22991">model=I-GR00/MAG/COHX-01</desc>
           <g
@@ -6004,7 +6004,7 @@
         </g>
         <g
            id="use21843"
-           transform="matrix(-0.70710459,0.70710459,0.70710459,0.70710459,2068.8147,-759.59923)">
+           transform="matrix(-0.70710459,0.70710459,0.70710459,0.70710459,2212.6676,-902.91734)">
           <desc
              id="desc22985">model=I-GR00/MAG/COIY-03</desc>
           <g
@@ -6021,7 +6021,7 @@
         </g>
         <g
            id="use21863"
-           transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,2114.7265,-754.11447)">
+           transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,2258.5794,-897.43258)">
           <desc
              id="desc22987">model=I-GR00/MAG/COIX-03</desc>
           <g
@@ -7217,25 +7217,25 @@
              sodipodi:role="line">QST1</tspan></text>
         <text
            id="text22348"
-           style="font-size:11.25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:'DejaVu Sans, Semi-Condensed'"
-           x="2012.584"
-           y="2249.0952"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:11.25px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           x="2021.1403"
+           y="2245.3518"
            sodipodi:linespacing="125%"
            xml:space="preserve"><tspan
              id="tspan22350"
-             x="2012.584"
-             y="2249.0952"
+             x="2021.1403"
+             y="2245.3518"
              sodipodi:role="line">COHX1</tspan></text>
         <text
            id="text22352"
-           style="font-size:11.25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:'DejaVu Sans, Semi-Condensed'"
-           x="2037.9685"
-           y="2229.0952"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:11.25px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           x="2099.1995"
+           y="2273.481"
            sodipodi:linespacing="125%"
            xml:space="preserve"><tspan
              id="tspan22354"
-             x="2037.9685"
-             y="2229.0952"
+             x="2099.1995"
+             y="2273.481"
              sodipodi:role="line">COHY1</tspan></text>
         <text
            id="text22356"
@@ -7251,46 +7251,46 @@
         <text
            id="text22368"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:11.25px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           x="2138.75"
-           y="2133.25"
+           x="2274.5813"
+           y="1990.4667"
            sodipodi:linespacing="125%"
            xml:space="preserve"><tspan
              id="tspan22370"
-             x="2138.75"
-             y="2133.25"
+             x="2274.5813"
+             y="1990.4667"
              sodipodi:role="line">COIX3</tspan></text>
         <text
            id="text22372"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:11.25px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           x="2211"
-           y="2165.25"
+           x="2354.8528"
+           y="2034.2316"
            sodipodi:linespacing="125%"
            xml:space="preserve"><tspan
              id="tspan22374"
-             x="2211"
-             y="2165.25"
+             x="2354.8528"
+             y="2034.2316"
              sodipodi:role="line">COIY3</tspan></text>
         <text
            id="text22384"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:11.25px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           x="2291.8984"
-           y="1979.2461"
+           x="2303.396"
+           y="1967.7485"
            sodipodi:linespacing="125%"
            xml:space="preserve"><tspan
              id="tspan22386"
-             x="2291.8984"
-             y="1979.2461"
+             x="2303.396"
+             y="1967.7485"
              sodipodi:role="line">COIX2</tspan></text>
         <text
            id="text22388"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:11.25px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           x="2359.0022"
-           y="2009.8041"
+           x="2370.4998"
+           y="1998.3065"
            sodipodi:linespacing="125%"
            xml:space="preserve"><tspan
              id="tspan22390"
-             x="2359.0022"
-             y="2009.8041"
+             x="2370.4998"
+             y="1998.3065"
              sodipodi:role="line">COIY2</tspan></text>
         <text
            id="text22392"
@@ -10312,7 +10312,7 @@
         <use
            height="100%"
            id="use24211"
-           transform="translate(-57.629201,56.214987)"
+           transform="translate(-69.126736,67.712522)"
            width="100%"
            x="0"
            y="0"
@@ -10363,6 +10363,66 @@
              x="2234.6226"
              y="2035.1075"
              sodipodi:role="line">COIX4</tspan></text>
+        <g
+           transform="matrix(-0.70710459,0.70710459,0.70710459,0.70710459,2068.0126,-757.99492)"
+           id="g11844">
+          <desc
+             id="desc11846">model=I-GR00/MAG/COIY-05</desc>
+          <g
+             id="g11848">
+            <use
+               xlink:href="#symbol30040"
+               y="0"
+               x="0"
+               width="17000"
+               transform="translate(-812,243)"
+               id="use11850"
+               height="10000" />
+          </g>
+        </g>
+        <g
+           transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,2113.1222,-752.77754)"
+           id="g11852">
+          <desc
+             id="desc11854">model=I-GR00/MAG/COIX-05</desc>
+          <g
+             transform="translate(-2.8749,-48.7499)"
+             id="g11856">
+            <g
+               id="g11858">
+              <use
+                 xlink:href="#symbol30062"
+                 y="0"
+                 x="0"
+                 width="17000"
+                 transform="translate(-746.99999,227.99999)"
+                 id="use11860"
+                 height="10000" />
+            </g>
+          </g>
+        </g>
+        <text
+           xml:space="preserve"
+           sodipodi:linespacing="125%"
+           y="2135.6565"
+           x="2138.2151"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:11.25px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="text11862"><tspan
+             sodipodi:role="line"
+             y="2135.6565"
+             x="2138.2151"
+             id="tspan11864">COIX5</tspan></text>
+        <text
+           xml:space="preserve"
+           sodipodi:linespacing="125%"
+           y="2179.1541"
+           x="2210.7324"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:11.25px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="text11866"><tspan
+             sodipodi:role="line"
+             y="2179.1541"
+             x="2210.7324"
+             id="tspan11868">COIY5</tspan></text>
       </g>
     </g>
     <g
@@ -12858,7 +12918,6 @@
         <ellipse
            cx="40.377701"
            cy="33.398499"
-           d="m 45.681002,33.398499 c 0,3.026563 -2.374369,5.480077 -5.303301,5.480077 -2.928932,0 -5.303301,-2.453514 -5.303301,-5.480077 0,-3.026564 2.374369,-5.480078 5.303301,-5.480078 2.928932,0 5.303301,2.453514 5.303301,5.480078 z"
            id="path24819-8"
            rx="5.3033009"
            ry="5.4800777"
@@ -12867,7 +12926,8 @@
            sodipodi:cy="33.398499"
            sodipodi:rx="5.3033009"
            sodipodi:ry="5.4800777"
-           inkscape:label="status" />
+           inkscape:label="status"
+           d="m 45.681002,33.398499 c 0,3.026563 -2.374369,5.480077 -5.303301,5.480077 -2.928932,0 -5.303301,-2.453514 -5.303301,-5.480077 0,-3.026564 2.374369,-5.480078 5.303301,-5.480078 2.928932,0 5.303301,2.453514 5.303301,5.480078 z" />
       </g>
       <g
          id="symbol30040"
@@ -12882,7 +12942,6 @@
         <ellipse
            cx="1977.5"
            cy="2157.5"
-           d="m 1982.8033,2157.5 c 0,3.0266 -2.3744,5.4801 -5.3033,5.4801 -2.9289,0 -5.3033,-2.4535 -5.3033,-5.4801 0,-3.0266 2.3744,-5.4801 5.3033,-5.4801 2.9289,0 5.3033,2.4535 5.3033,5.4801 z"
            id="path24819-9"
            rx="5.3033009"
            ry="5.4800777"
@@ -12917,7 +12976,6 @@
         <ellipse
            cx="3545"
            cy="2135"
-           d="m 3550.3033,2135 c 0,3.0266 -2.3744,5.4801 -5.3033,5.4801 -2.9289,0 -5.3033,-2.4535 -5.3033,-5.4801 0,-3.0266 2.3744,-5.4801 5.3033,-5.4801 2.9289,0 5.3033,2.4535 5.3033,5.4801 z"
            id="path24819-95"
            rx="5.3033009"
            ry="5.4800777"
@@ -12925,7 +12983,8 @@
            sodipodi:cy="2135"
            sodipodi:rx="5.3033009"
            sodipodi:ry="5.4800777"
-           inkscape:label="status" />
+           inkscape:label="status"
+           d="m 3550.3033,2135 c 0,3.0266 -2.3744,5.4801 -5.3033,5.4801 -2.9289,0 -5.3033,-2.4535 -5.3033,-5.4801 0,-3.0266 2.3744,-5.4801 5.3033,-5.4801 2.9289,0 5.3033,2.4535 5.3033,5.4801 z" />
       </g>
       <g
          id="symbol10455"
@@ -12934,14 +12993,14 @@
         <circle
            cx="3115"
            cy="2145"
-           d="m 3125,2145 c 0,5.5228 -4.4772,10 -10,10 -5.5228,0 -10,-4.4772 -10,-10 0,-5.5228 4.4772,-10 10,-10 5.5228,0 10,4.4772 10,10 z"
            id="path10453"
            r="10"
            style="fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
            sodipodi:cx="3115"
            sodipodi:cy="2145"
            sodipodi:rx="10"
-           sodipodi:ry="10" />
+           sodipodi:ry="10"
+           d="m 3125,2145 c 0,5.5228 -4.4772,10 -10,10 -5.5228,0 -10,-4.4772 -10,-10 0,-5.5228 4.4772,-10 10,-10 5.5228,0 10,4.4772 10,10 z" />
       </g>
       <g
          id="symbol7975"
@@ -12993,7 +13052,6 @@
         <ellipse
            cx="1944.3041"
            cy="2146.4041"
-           d="m 1949.3041,2146.4041 c 0,8.2842 -2.2386,15 -5,15 -2.7614,0 -5,-6.7158 -5,-15 0,-8.2843 2.2386,-15 5,-15 2.7614,0 5,6.7157 5,15 z"
            id="CT"
            rx="5"
            ry="15"
@@ -13002,7 +13060,8 @@
            sodipodi:cy="2146.4041"
            sodipodi:rx="5"
            sodipodi:ry="15"
-           inkscape:label="CT" />
+           inkscape:label="CT"
+           d="m 1949.3041,2146.4041 c 0,8.2842 -2.2386,15 -5,15 -2.7614,0 -5,-6.7158 -5,-15 0,-8.2843 2.2386,-15 5,-15 2.7614,0 5,6.7157 5,15 z" />
       </g>
       <g
          id="g4062"
@@ -13044,7 +13103,6 @@
         <ellipse
            cx="2550"
            cy="2145"
-           d="m 2555.3033,2145 c 0,2.5726 -2.3744,4.6581 -5.3033,4.6581 -2.9289,0 -5.3033,-2.0855 -5.3033,-4.6581 0,-2.5726 2.3744,-4.6581 5.3033,-4.6581 2.9289,0 5.3033,2.0855 5.3033,4.6581 z"
            id="path24819-76"
            rx="5.3033009"
            ry="4.6580663"
@@ -13053,7 +13111,8 @@
            sodipodi:cy="2145"
            sodipodi:rx="5.3033009"
            sodipodi:ry="4.6580663"
-           inkscape:label="status" />
+           inkscape:label="status"
+           d="m 2555.3033,2145 c 0,2.5726 -2.3744,4.6581 -5.3033,4.6581 -2.9289,0 -5.3033,-2.0855 -5.3033,-4.6581 0,-2.5726 2.3744,-4.6581 5.3033,-4.6581 2.9289,0 5.3033,2.0855 5.3033,4.6581 z" />
       </g>
       <g
          id="symbol-dipole"
@@ -13069,7 +13128,6 @@
         <ellipse
            cx="2640"
            cy="2145"
-           d="m 2645.3033,2145 c 0,3.0266 -2.3744,5.4801 -5.3033,5.4801 -2.9289,0 -5.3033,-2.4535 -5.3033,-5.4801 0,-3.0266 2.3744,-5.4801 5.3033,-5.4801 2.9289,0 5.3033,2.4535 5.3033,5.4801 z"
            id="path24819-2"
            rx="5.3033009"
            ry="5.4800777"
@@ -13078,7 +13136,8 @@
            sodipodi:cy="2145"
            sodipodi:rx="5.3033009"
            sodipodi:ry="5.4800777"
-           inkscape:label="status" />
+           inkscape:label="status"
+           d="m 2645.3033,2145 c 0,3.0266 -2.3744,5.4801 -5.3033,5.4801 -2.9289,0 -5.3033,-2.4535 -5.3033,-5.4801 0,-3.0266 2.3744,-5.4801 5.3033,-5.4801 2.9289,0 5.3033,2.4535 5.3033,5.4801 z" />
       </g>
       <g
          id="symbol12414"
@@ -13105,7 +13164,6 @@
         <ellipse
            cx="2007.5"
            cy="2142.5"
-           d="m 2012.8033,2142.5 c 0,3.0266 -2.3744,5.4801 -5.3033,5.4801 -2.9289,0 -5.3033,-2.4535 -5.3033,-5.4801 0,-3.0266 2.3744,-5.4801 5.3033,-5.4801 2.9289,0 5.3033,2.4535 5.3033,5.4801 z"
            id="path24819-7"
            rx="5.3033009"
            ry="5.4800777"
