@@ -1,7 +1,10 @@
 from subprocess import Popen
 
 from PyTango import Database, DevState
-from taurus.qt.qtgui.panel import TaurusDevicePanel
+from taurus.qt.qtgui.panel import TaurusDevicePanel, TaurusForm, TaurusWidget
+from taurus.external.qt import Qt, QtGui
+from taurus import tauruscustomsettings  # , Factory
+
 
 # various widgets for specific devices
 from magnetpanel import MagnetPanel
@@ -20,9 +23,24 @@ class ScreenPopup(CommandsWidgetPopup):
     commands = ("MoveIn", DevState.INSERT), ("MoveOut", DevState.EXTRACT)
 
 
+class MotorPanel(TaurusForm):
+
+    "A widget for displaying (a) sardana motor(s)"
+
+    def __init__(self, *args, **kwargs):
+        TaurusForm.__init__(self, *args, **kwargs)
+        self.setCustomWidgetMap(getattr(tauruscustomsettings,
+                                        'T_FORM_CUSTOM_WIDGET_MAP', {}))
+        self.setWithButtons(False)
+
+    def setModel(self, model):
+        TaurusForm.setModel(self, model)
+
+
 CLASS_PANELS = {
     "Magnet": MagnetPanel,
     "IORegister": MotorPresets,
+    "Motor": MotorPanel,
     "VacuumValve": ValvePopup,
     "CameraScreen": ScreenPopup
 }
@@ -32,6 +50,7 @@ def get_panel(device):
     "Return an appropriate panel for the given device"
     db = Database()
     classname = db.get_class_for_device(device)
+    print("Class", classname)
     if classname in CLASS_PANELS:
         return CLASS_PANELS[classname]
     if classname == "BeamViewerDeviceServer":
@@ -41,7 +60,7 @@ def get_panel(device):
     return TaurusDevicePanel
 
 
-def camera_process(cam): 
+def camera_process(cam):
     """Start a camera gui panel in its own process"""
     # This is a (hopefully) temporary workaround to the Taurus polling problem
     # that tends to slow down the camera UI when there are many listeners.
@@ -58,3 +77,9 @@ if __name__ == "__main__":
     widget.setModel(device)
     widget.show()
     qapp.exec_()
+
+
+
+
+
+
