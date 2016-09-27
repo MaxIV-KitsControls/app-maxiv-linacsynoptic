@@ -30,9 +30,9 @@
      width="1800"
      inkscape:bbox-nodes="false"
      inkscape:bbox-paths="true"
-     inkscape:current-layer="layer10"
-     inkscape:cx="12262.471"
-     inkscape:cy="8012.165"
+     inkscape:current-layer="layer12"
+     inkscape:cx="12347.657"
+     inkscape:cy="7779.7884"
      inkscape:document-units="px"
      inkscape:guide-bbox="true"
      inkscape:object-nodes="true"
@@ -54,12 +54,12 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-text-baseline="true"
      inkscape:snap-to-guides="true"
-     inkscape:window-height="731"
+     inkscape:window-height="1163"
      inkscape:window-maximized="0"
-     inkscape:window-width="1366"
+     inkscape:window-width="1920"
      inkscape:window-x="0"
      inkscape:window-y="37"
-     inkscape:zoom="0.66113283">
+     inkscape:zoom="2.6445313">
     <inkscape:grid
        color="#0000ff"
        dotted="true"
@@ -4808,7 +4808,7 @@
            y="0"
            xlink:href="#symbol12414">
           <desc
-             id="desc5629">model=motor/diagbl_icepap_ctrl_1/3</desc>
+             id="desc5629">model=r3-301l/vac/scrp-03-v</desc>
         </use>
         <use
            height="10000"
@@ -4820,7 +4820,7 @@
            y="0"
            xlink:href="#symbol12414">
           <desc
-             id="desc5633">model=motor/diagbl_icepap_ctrl_1/2</desc>
+             id="desc5633">model=r3-301l/vac/scrp-02-v</desc>
         </use>
         <use
            height="10000"
@@ -4832,7 +4832,7 @@
            y="0"
            xlink:href="#symbol12414">
           <desc
-             id="desc5637">model=motor/diagbl_icepap_ctrl_1/1</desc>
+             id="desc5637">model=r3-301l/vac/scrp-01-h</desc>
         </use>
         <text
            id="text5648"
@@ -4889,7 +4889,7 @@
            y="0"
            xlink:href="#symbol12414">
           <desc
-             id="desc19881">model=motor/diagbl_icepap_ctrl_1/4</desc>
+             id="desc19881">model=r3-301l/dia/scrnm-01-h</desc>
         </use>
         <use
            height="10000"
@@ -13002,8 +13002,7 @@
            sodipodi:cy="33.398499"
            sodipodi:rx="5.3033009"
            sodipodi:ry="5.4800777"
-           inkscape:label="status"
-           d="m 45.681002,33.398499 c 0,3.026563 -2.374369,5.480077 -5.303301,5.480077 -2.928932,0 -5.303301,-2.453514 -5.303301,-5.480077 0,-3.026564 2.374369,-5.480078 5.303301,-5.480078 2.928932,0 5.303301,2.453514 5.303301,5.480078 z" />
+           inkscape:label="status" />
       </g>
       <g
          id="symbol30040"
@@ -13059,8 +13058,7 @@
            sodipodi:cy="2135"
            sodipodi:rx="5.3033009"
            sodipodi:ry="5.4800777"
-           inkscape:label="status"
-           d="m 3550.3033,2135 c 0,3.0266 -2.3744,5.4801 -5.3033,5.4801 -2.9289,0 -5.3033,-2.4535 -5.3033,-5.4801 0,-3.0266 2.3744,-5.4801 5.3033,-5.4801 2.9289,0 5.3033,2.4535 5.3033,5.4801 z" />
+           inkscape:label="status" />
       </g>
       <g
          id="symbol10455"
@@ -13075,8 +13073,7 @@
            sodipodi:cx="3115"
            sodipodi:cy="2145"
            sodipodi:rx="10"
-           sodipodi:ry="10"
-           d="m 3125,2145 c 0,5.5228 -4.4772,10 -10,10 -5.5228,0 -10,-4.4772 -10,-10 0,-5.5228 4.4772,-10 10,-10 5.5228,0 10,4.4772 10,10 z" />
+           sodipodi:ry="10" />
       </g>
       <g
          id="symbol7975"
@@ -13113,11 +13110,19 @@
       <g
          id="symbol-valve"
          style="display:inline"
-         transform="translate(755.1959,-151.9041)">
+         transform="matrix(0,-1.1844438,0.80858939,0,1053.9404,4404.0188)">
+        <ellipse
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path15606"
+           cx="2146.5559"
+           cy="-2034.2982"
+           transform="matrix(0,1,-1,0,0,0)"
+           rx="11.243128"
+           ry="7.675395" />
         <path
            d="m 2024.3041,2131.4041 20,0 -20,30 20,0 z"
            id="valve"
-           style="fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill-opacity:1;stroke:#000000;stroke-width:1.0218302px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            inkscape:connector-curvature="0"
            inkscape:label="valve" />
       </g>
@@ -13136,8 +13141,7 @@
            sodipodi:cy="2146.4041"
            sodipodi:rx="5"
            sodipodi:ry="15"
-           inkscape:label="CT"
-           d="m 1949.3041,2146.4041 c 0,8.2842 -2.2386,15 -5,15 -2.7614,0 -5,-6.7158 -5,-15 0,-8.2843 2.2386,-15 5,-15 2.7614,0 5,6.7157 5,15 z" />
+           inkscape:label="CT" />
       </g>
       <g
          id="g4062"
@@ -13187,8 +13191,7 @@
            sodipodi:cy="2145"
            sodipodi:rx="5.3033009"
            sodipodi:ry="4.6580663"
-           inkscape:label="status"
-           d="m 2555.3033,2145 c 0,2.5726 -2.3744,4.6581 -5.3033,4.6581 -2.9289,0 -5.3033,-2.0855 -5.3033,-4.6581 0,-2.5726 2.3744,-4.6581 5.3033,-4.6581 2.9289,0 5.3033,2.0855 5.3033,4.6581 z" />
+           inkscape:label="status" />
       </g>
       <g
          id="symbol-dipole"
@@ -13212,8 +13215,7 @@
            sodipodi:cy="2145"
            sodipodi:rx="5.3033009"
            sodipodi:ry="5.4800777"
-           inkscape:label="status"
-           d="m 2645.3033,2145 c 0,3.0266 -2.3744,5.4801 -5.3033,5.4801 -2.9289,0 -5.3033,-2.4535 -5.3033,-5.4801 0,-3.0266 2.3744,-5.4801 5.3033,-5.4801 2.9289,0 5.3033,2.4535 5.3033,5.4801 z" />
+           inkscape:label="status" />
       </g>
       <g
          id="symbol12414"
