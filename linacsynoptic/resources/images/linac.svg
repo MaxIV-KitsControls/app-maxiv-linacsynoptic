@@ -30,9 +30,9 @@
      width="1800"
      inkscape:bbox-nodes="false"
      inkscape:bbox-paths="true"
-     inkscape:current-layer="layer12"
-     inkscape:cx="12347.657"
-     inkscape:cy="7779.7884"
+     inkscape:current-layer="layer10"
+     inkscape:cx="11956.917"
+     inkscape:cy="7604.281"
      inkscape:document-units="px"
      inkscape:guide-bbox="true"
      inkscape:object-nodes="true"
@@ -59,7 +59,7 @@
      inkscape:window-width="1920"
      inkscape:window-x="0"
      inkscape:window-y="37"
-     inkscape:zoom="2.6445313">
+     inkscape:zoom="3.739932">
     <inkscape:grid
        color="#0000ff"
        dotted="true"
@@ -12307,7 +12307,7 @@
              id="tspan4503-4-1"
              x="10146.679"
              y="-6701.1162"
-             sodipodi:role="line">VGFA3</tspan></text>
+             sodipodi:role="line">VGFA1</tspan></text>
         <use
            height="10000"
            id="use4497-0-49"
@@ -12318,7 +12318,7 @@
            y="0"
            xlink:href="#symbol-valve">
           <desc
-             id="desc4499-0-9">model=I-TR3/VAC/VGFA-03</desc>
+             id="desc4499-0-9">model=I-TR3/VAC/VGFA-01</desc>
         </use>
         <path
            d="m 12004.229,2347.5528 0,53.9782"
