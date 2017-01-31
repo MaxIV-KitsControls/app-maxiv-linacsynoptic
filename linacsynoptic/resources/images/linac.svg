@@ -30,9 +30,9 @@
      width="1800"
      inkscape:bbox-nodes="false"
      inkscape:bbox-paths="true"
-     inkscape:current-layer="layer12"
-     inkscape:cx="2383.2009"
-     inkscape:cy="7618.2168"
+     inkscape:current-layer="layer6"
+     inkscape:cx="5766.6357"
+     inkscape:cy="7779.2323"
      inkscape:document-units="px"
      inkscape:guide-bbox="true"
      inkscape:object-nodes="true"
@@ -57,9 +57,9 @@
      inkscape:window-height="670"
      inkscape:window-maximized="0"
      inkscape:window-width="1284"
-     inkscape:window-x="551"
-     inkscape:window-y="314"
-     inkscape:zoom="0.68566701">
+     inkscape:window-x="2009"
+     inkscape:window-y="177"
+     inkscape:zoom="1.4222234">
     <inkscape:grid
        color="#0000ff"
        dotted="true"
@@ -10625,7 +10625,7 @@
            transform="matrix(0.99999733,0,0,0.99999733,819.50528,247.50576)"
            id="g5499">
           <desc
-             id="desc5501">model=I-S01A/MAG/COEY-02</desc>
+             id="desc5501">model=I-S01B/MAG/COEY-02</desc>
           <g
              id="g5503">
             <use
