@@ -18,7 +18,7 @@
    viewBox="0 0 17000 10000"
    width="17000"
    sodipodi:docname="linac.svg"
-   inkscape:version="0.48.4 r9939">
+   inkscape:version="0.91 r13725">
   <sodipodi:namedview
      bordercolor="#666666"
      borderopacity="1.0"
@@ -30,8 +30,8 @@
      width="1800"
      inkscape:bbox-nodes="false"
      inkscape:bbox-paths="true"
-     inkscape:current-layer="layer6"
-     inkscape:cx="5766.6357"
+     inkscape:current-layer="layer12"
+     inkscape:cx="7192.7149"
      inkscape:cy="7779.2323"
      inkscape:document-units="px"
      inkscape:guide-bbox="true"
@@ -54,11 +54,11 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-text-baseline="true"
      inkscape:snap-to-guides="true"
-     inkscape:window-height="670"
-     inkscape:window-maximized="0"
-     inkscape:window-width="1284"
-     inkscape:window-x="2009"
-     inkscape:window-y="177"
+     inkscape:window-height="1091"
+     inkscape:window-maximized="1"
+     inkscape:window-width="1920"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
      inkscape:zoom="1.4222234">
     <inkscape:grid
        color="#0000ff"
@@ -4531,7 +4531,7 @@
            y="0"
            xlink:href="#symbol7975">
           <desc
-             id="desc8496">model=I-12/DIA/BPL-01</desc>
+             id="desc8496">model=i-s12a/dia/bpl-01</desc>
         </use>
         <text
            id="text8498"
@@ -13487,8 +13487,7 @@
            sodipodi:cy="33.398499"
            sodipodi:rx="5.3033009"
            sodipodi:ry="5.4800777"
-           inkscape:label="status"
-           d="m 45.681002,33.398499 c 0,3.026563 -2.374369,5.480077 -5.303301,5.480077 -2.928932,0 -5.303301,-2.453514 -5.303301,-5.480077 0,-3.026564 2.374369,-5.480078 5.303301,-5.480078 2.928932,0 5.303301,2.453514 5.303301,5.480078 z" />
+           inkscape:label="status" />
       </g>
       <g
          id="symbol30040"
@@ -13510,8 +13509,7 @@
            sodipodi:cy="2157.5"
            sodipodi:rx="5.3033009"
            sodipodi:ry="5.4800777"
-           inkscape:label="status"
-           d="m 1982.8033,2157.5 c 0,3.0266 -2.3744,5.4801 -5.3033,5.4801 -2.9289,0 -5.3033,-2.4535 -5.3033,-5.4801 0,-3.0266 2.3744,-5.4801 5.3033,-5.4801 2.9289,0 5.3033,2.4535 5.3033,5.4801 z" />
+           inkscape:label="status" />
       </g>
       <g
          id="symbol10623"
@@ -13545,8 +13543,7 @@
            sodipodi:cy="2135"
            sodipodi:rx="5.3033009"
            sodipodi:ry="5.4800777"
-           inkscape:label="status"
-           d="m 3550.3033,2135 c 0,3.0266 -2.3744,5.4801 -5.3033,5.4801 -2.9289,0 -5.3033,-2.4535 -5.3033,-5.4801 0,-3.0266 2.3744,-5.4801 5.3033,-5.4801 2.9289,0 5.3033,2.4535 5.3033,5.4801 z" />
+           inkscape:label="status" />
       </g>
       <g
          id="symbol10455"
@@ -13561,8 +13558,7 @@
            sodipodi:cx="3115"
            sodipodi:cy="2145"
            sodipodi:rx="10"
-           sodipodi:ry="10"
-           d="m 3125,2145 c 0,5.5228 -4.4772,10 -10,10 -5.5228,0 -10,-4.4772 -10,-10 0,-5.5228 4.4772,-10 10,-10 5.5228,0 10,4.4772 10,10 z" />
+           sodipodi:ry="10" />
       </g>
       <g
          id="symbol7975"
@@ -13607,8 +13603,7 @@
            cy="-2034.2982"
            transform="matrix(0,1,-1,0,0,0)"
            rx="11.243128"
-           ry="7.675395"
-           d="m 2157.799,-2034.2982 c 0,4.239 -5.0337,7.6754 -11.2431,7.6754 -6.2094,0 -11.2431,-3.4364 -11.2431,-7.6754 0,-4.239 5.0337,-7.6754 11.2431,-7.6754 6.2094,0 11.2431,3.4364 11.2431,7.6754 z" />
+           ry="7.675395" />
         <path
            d="m 2024.3041,2131.4041 20,0 -20,30 20,0 z"
            id="valve"
@@ -13631,8 +13626,7 @@
            sodipodi:cy="2146.4041"
            sodipodi:rx="5"
            sodipodi:ry="15"
-           inkscape:label="CT"
-           d="m 1949.3041,2146.4041 c 0,8.2842 -2.2386,15 -5,15 -2.7614,0 -5,-6.7158 -5,-15 0,-8.2843 2.2386,-15 5,-15 2.7614,0 5,6.7157 5,15 z" />
+           inkscape:label="CT" />
       </g>
       <g
          id="g4062"
@@ -13682,8 +13676,7 @@
            sodipodi:cy="2145"
            sodipodi:rx="5.3033009"
            sodipodi:ry="4.6580663"
-           inkscape:label="status"
-           d="m 2555.3033,2145 c 0,2.5726 -2.3744,4.6581 -5.3033,4.6581 -2.9289,0 -5.3033,-2.0855 -5.3033,-4.6581 0,-2.5726 2.3744,-4.6581 5.3033,-4.6581 2.9289,0 5.3033,2.0855 5.3033,4.6581 z" />
+           inkscape:label="status" />
       </g>
       <g
          id="symbol-dipole"
@@ -13707,8 +13700,7 @@
            sodipodi:cy="2145"
            sodipodi:rx="5.3033009"
            sodipodi:ry="5.4800777"
-           inkscape:label="status"
-           d="m 2645.3033,2145 c 0,3.0266 -2.3744,5.4801 -5.3033,5.4801 -2.9289,0 -5.3033,-2.4535 -5.3033,-5.4801 0,-3.0266 2.3744,-5.4801 5.3033,-5.4801 2.9289,0 5.3033,2.4535 5.3033,5.4801 z" />
+           inkscape:label="status" />
       </g>
       <g
          id="symbol12414"
@@ -13742,8 +13734,7 @@
            sodipodi:cy="2142.5"
            sodipodi:rx="5.3033009"
            sodipodi:ry="5.4800777"
-           inkscape:label="status"
-           d="m 2012.8033,2142.5 c 0,3.0266 -2.3744,5.4801 -5.3033,5.4801 -2.9289,0 -5.3033,-2.4535 -5.3033,-5.4801 0,-3.0266 2.3744,-5.4801 5.3033,-5.4801 2.9289,0 5.3033,2.4535 5.3033,5.4801 z" />
+           inkscape:label="status" />
       </g>
       <ellipse
          cx="2635"
