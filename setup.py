@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
     name="taurusgui-linacsynoptic",
-    version="1.3.7",
+    version="1.3.8",
     description="Synoptic for the MAX IV linear accellerator.",
     author="Johan Forsberg",
     author_email="johan.forsberg@maxlab.lu.se",
