@@ -3,7 +3,7 @@
 from setuptools import setup
 
 setup(
-    name="taurusgui-linacsynoptic",
+    name= "taurusgui-linacsynoptic",
     version="1.4.0",
     description="Synoptic for the MAX IV linear accellerator.",
     author="Johan Forsberg",
@@ -15,7 +15,7 @@ setup(
         'resources/index.html',
         'resources/images/*.svg',
         'resources/images/*.png']},
-    data_files=[('/usr/share/applications',['maxiv-linac-synoptic.desktop'])],
+    data_files=[('/usr/share/applications', ['maxiv-linac-synoptic.desktop'])],
     entry_points={
         'console_scripts': [
             'ctlinacsynoptic = linacsynoptic.__main__:main'

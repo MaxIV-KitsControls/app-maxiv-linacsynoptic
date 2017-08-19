@@ -9,7 +9,8 @@ class CommandsWidget(TaurusWidget):
     """
     Simple widget that shows a number of Command buttons.
     """
-    def __init__(self, parent = None, commands=None):
+
+    def __init__(self, parent=None, commands=None):
         TaurusWidget.__init__(self, parent)
         self.commands = commands
         self.buttons = {}
@@ -33,9 +34,9 @@ class CommandsWidget(TaurusWidget):
             self.layout().addWidget(button)
             self.buttons[command] = button
 
-        #self.initButton.hide() # Only used in popup
+        # self.initButton.hide() # Only used in popup
 
-    def setModel(self,model):
+    def setModel(self, model):
         TaurusWidget.setModel(self, model)
         self.setWindowTitle(str(model))
         self.modelLabel.setText(str(model))
@@ -51,7 +52,8 @@ class CommandsWidgetPopup(CommandsWidget):
     On show it hides irrelevant buttons.
     It also closes automatically after 10 seconds.
     """
-    def __init__(self, parent = None):
+
+    def __init__(self, parent=None):
         CommandsWidget.__init__(self, parent, self.commands)
         self.setWindowFlags(QtCore.Qt.FramelessWindowHint)
         self.installEventFilter(self)
@@ -62,7 +64,7 @@ class CommandsWidgetPopup(CommandsWidget):
         """
         Event filter to close if no focus
         """
-        if event.type()== QtCore.QEvent.WindowDeactivate:
+        if event.type() == QtCore.QEvent.WindowDeactivate:
             self.close()
         return TaurusWidget.eventFilter(self, object, event)
 
@@ -115,4 +117,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

@@ -18,6 +18,7 @@ class ValvePopup(CommandsWidgetPopup):
     "Quick open/close for vacuum valves"
     commands = ("Open", DevState.OPEN), ("Close", DevState.CLOSE)
 
+
 class ScreenPopup(CommandsWidgetPopup):
     "Quick movements for camera screens"
     commands = ("MoveIn", DevState.INSERT), ("MoveOut", DevState.EXTRACT)
@@ -77,9 +78,3 @@ if __name__ == "__main__":
     widget.setModel(device)
     widget.show()
     qapp.exec_()
-
-
-
-
-
-
