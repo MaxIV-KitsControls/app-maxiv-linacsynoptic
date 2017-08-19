@@ -3,7 +3,7 @@
 from setuptools import setup
 
 setup(
-    name= "taurusgui-linacsynoptic",
+    name="taurusgui-linacsynoptic",
     version="1.4.0",
     description="Synoptic for the MAX IV linear accellerator.",
     author="Johan Forsberg",
