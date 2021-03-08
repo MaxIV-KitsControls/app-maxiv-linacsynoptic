@@ -16,6 +16,7 @@ setup(
         'resources/images/*.svg',
         'resources/images/*.png']},
     data_files=[('/usr/share/applications',['maxiv-linac-synoptic.desktop'])],
+    install_requires = ['taurus', 'magnetpanel', 'svgsynoptic2']
     entry_points={
         'console_scripts': [
             'ctlinacsynoptic = linacsynoptic.__main__:main'
