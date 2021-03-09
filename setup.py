@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
     name="taurusgui-linacsynoptic",
-    version="1.4.1",
+    version="1.5.0",
     description="Synoptic for the MAX IV linear accellerator.",
     author="Johan Forsberg",
     author_email="johan.forsberg@maxlab.lu.se",
@@ -16,6 +16,7 @@ setup(
         'resources/images/*.svg',
         'resources/images/*.png']},
     data_files=[('/usr/share/applications',['maxiv-linac-synoptic.desktop'])],
+    install_requires = ['taurus', 'magnetpanel', 'svgsynoptic2']
     entry_points={
         'console_scripts': [
             'ctlinacsynoptic = linacsynoptic.__main__:main'

@@ -1,7 +1,8 @@
 from subprocess import Popen
 
 from PyTango import Database, DevState
-from taurus.qt.qtgui.panel import TaurusDevicePanel, TaurusForm, TaurusWidget
+from taurus.qt.qtgui.panel import TaurusDevicePanel, TaurusForm
+from taurus.qt.qtgui.container import TaurusWidget
 from taurus.external.qt import Qt, QtGui
 from taurus import tauruscustomsettings  # , Factory
 
@@ -12,7 +13,6 @@ from maxwidgets.panel import MotorPresets
 from tgconf_beamviewer import panels
 
 from popup import CommandsWidgetPopup
-
 
 class ValvePopup(CommandsWidgetPopup):
     "Quick open/close for vacuum valves"
