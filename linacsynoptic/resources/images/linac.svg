@@ -5392,23 +5392,23 @@
              y="-8014.043"
              sodipodi:role="line"
              style="font-size:11.2499px;line-height:1.25">ICT1</tspan></text>
-      </g>
-      <text
-         xml:space="preserve"
-         y="1815.9821"
-         x="12948.159"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-         id="text5567-0-1"><tspan
-           sodipodi:role="line"
+        <text
+           xml:space="preserve"
            y="1815.9821"
            x="12948.159"
-           id="tspan5569-2-8"
-           style="font-size:11.25px;line-height:1.25">BPM6</tspan><tspan
-           sodipodi:role="line"
-           y="1823.2288"
-           x="12948.159"
-           style="font-size:11.25px;line-height:1.25"
-           id="tspan5176-6" /></text>
+           style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="text5567-0-1"><tspan
+             sodipodi:role="line"
+             y="1815.9821"
+             x="12948.159"
+             id="tspan5569-2-8"
+             style="font-size:11.25px;line-height:1.25">BPM6</tspan><tspan
+             sodipodi:role="line"
+             y="1823.2288"
+             x="12948.159"
+             style="font-size:11.25px;line-height:1.25"
+             id="tspan5176-6" /></text>
+      </g>
     </g>
     <g
        id="layer4"
