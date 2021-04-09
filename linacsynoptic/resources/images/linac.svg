@@ -30,9 +30,9 @@
      width="1800"
      inkscape:bbox-nodes="false"
      inkscape:bbox-paths="true"
-     inkscape:current-layer="vacuum"
-     inkscape:cx="2845.9932"
-     inkscape:cy="2068.9569"
+     inkscape:current-layer="diagnostic"
+     inkscape:cx="12305.753"
+     inkscape:cy="1928.705"
      inkscape:document-units="px"
      inkscape:guide-bbox="true"
      inkscape:object-nodes="true"
@@ -59,7 +59,7 @@
      inkscape:window-width="2560"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:zoom="0.30101426"
+     inkscape:zoom="2.4081141"
      inkscape:document-rotation="0">
     <inkscape:grid
        color="#0000ff"
@@ -137,7 +137,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2892,9 +2892,9 @@
            style="display:inline;fill:none;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            inkscape:connector-curvature="0" />
         <path
-           d="m 3926.225,2114.8403 v 75"
+           d="m 3926.225,2114.8403 v 72.4565"
            id="path4555"
-           style="display:inline;fill:none;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="display:inline;fill:none;stroke:#999999;stroke-width:0.982897px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            inkscape:connector-curvature="0" />
         <text
            id="text4557"
@@ -5164,65 +5164,170 @@
           <desc
              id="desc5478">model=lima/beamviewer/I-SP02-DIA-SCRN-05</desc>
         </use>
-      </g>
-      <text
-         id="text4557-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-         x="3636.4097"
-         y="2208.6079"
-         xml:space="preserve"><tspan
-           id="tspan4559-1"
-           x="3636.4097"
-           y="2208.6079"
-           sodipodi:role="line"
-           style="font-size:11.25px;line-height:1.25">BPL3</tspan><tspan
-           x="3636.4097"
-           y="2215.8547"
-           sodipodi:role="line"
-           style="font-size:11.25px;line-height:1.25"
-           id="tspan5163" /></text>
-      <use
-         height="10000"
-         id="use6473-7"
-         style="display:inline"
-         transform="translate(1032.5475,251.73748)"
-         width="17000"
-         x="0"
-         y="0"
-         xlink:href="#symbol7975">
-        <desc
-           id="desc6475-3">model=i-bc1/dia/bpl-03</desc>
-      </use>
-      <use
-         height="10000"
-         id="use9843-9"
-         style="display:inline"
-         transform="translate(234.07198,450.54276)"
-         width="17000"
-         x="0"
-         y="0"
-         xlink:href="#symbol7975">
-        <desc
-           id="desc10449-6">model=I-MS1/DIA/BPL-03</desc>
-      </use>
-      <text
-         id="text10305-5-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-         transform="rotate(45)"
-         x="3753.113"
-         y="-309.44684"
-         xml:space="preserve"><tspan
-           id="tspan10307-7-0"
+        <use
+           height="10000"
+           id="use9843-9"
+           style="display:inline"
+           transform="translate(234.07198,450.54276)"
+           width="17000"
+           x="0"
+           y="0"
+           xlink:href="#symbol7975">
+          <desc
+             id="desc10449-6">model=I-MS1/DIA/BPL-03</desc>
+        </use>
+        <text
+           id="text10305-5-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
            x="3753.113"
            y="-309.44684"
-           sodipodi:role="line"
-           style="font-size:11.25px;line-height:1.25">BPL3</tspan></text>
-      <path
-         d="m 3689.5427,2206.27 69.2501,27.2759 v 22.0448"
-         id="path13768-4"
-         style="display:inline;fill:none;stroke:#999999;stroke-width:1.04931px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         sodipodi:nodetypes="ccc"
-         inkscape:connector-curvature="0" />
+           xml:space="preserve"><tspan
+             id="tspan10307-7-0"
+             x="3753.113"
+             y="-309.44684"
+             sodipodi:role="line"
+             style="font-size:11.25px;line-height:1.25">BPL3</tspan></text>
+        <text
+           id="text4557-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="3636.4097"
+           y="2208.6079"
+           xml:space="preserve"><tspan
+             id="tspan4559-1"
+             x="3636.4097"
+             y="2208.6079"
+             sodipodi:role="line"
+             style="font-size:11.25px;line-height:1.25">BPL3</tspan><tspan
+             x="3636.4097"
+             y="2215.8547"
+             sodipodi:role="line"
+             style="font-size:11.25px;line-height:1.25"
+             id="tspan5163" /></text>
+        <use
+           height="10000"
+           id="use6473-7"
+           style="display:inline"
+           transform="translate(1032.5475,251.73748)"
+           width="17000"
+           x="0"
+           y="0"
+           xlink:href="#symbol7975">
+          <desc
+             id="desc6475-3">model=i-bc1/dia/bpl-03</desc>
+        </use>
+        <path
+           d="m 3689.5427,2206.27 69.2501,27.2759 v 22.0448"
+           id="path13768-4"
+           style="display:inline;fill:none;stroke:#999999;stroke-width:1.04931px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0" />
+        <use
+           height="10000"
+           id="use9823-6-4"
+           style="display:inline"
+           transform="translate(8726.979,190.38969)"
+           width="17000"
+           x="0"
+           y="0"
+           xlink:href="#symbol7975">
+          <desc
+             id="desc10445-8-0">model=I-MS3/DIA/BPL-01</desc>
+        </use>
+        <text
+           id="text10393-6-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="9573.1934"
+           y="-6491.7778"
+           xml:space="preserve"><tspan
+             id="tspan10395-3-7"
+             x="9573.1934"
+             y="-6491.7778"
+             sodipodi:role="line"
+             style="font-size:11.25px;line-height:1.25">BPL1</tspan></text>
+        <use
+           height="10000"
+           id="use9823-6-4-4"
+           style="display:inline"
+           transform="translate(8831.4434,190.06571)"
+           width="17000"
+           x="0"
+           y="0"
+           xlink:href="#symbol7975">
+          <desc
+             id="desc10445-8-0-7">model=I-MS3/DIA/BPL-02</desc>
+        </use>
+        <text
+           id="text10393-6-2-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="9648.2451"
+           y="-6567.2876"
+           xml:space="preserve"><tspan
+             id="tspan10395-3-7-6"
+             x="9648.2451"
+             y="-6567.2876"
+             sodipodi:role="line"
+             style="font-size:11.25px;line-height:1.25">BPL2</tspan></text>
+        <use
+           height="10000"
+           id="use9823-6-4-4-9"
+           style="display:inline"
+           transform="translate(8995.1425,189.90057)"
+           width="17000"
+           x="0"
+           y="0"
+           xlink:href="#symbol7975">
+          <desc
+             id="desc10445-8-0-7-2">model=I-MS3/DIA/BPL-03</desc>
+        </use>
+        <text
+           id="text10393-6-2-3-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="9763.8809"
+           y="-6683.1572"
+           xml:space="preserve"><tspan
+             id="tspan10395-3-7-6-1"
+             x="9763.8809"
+             y="-6683.1572"
+             sodipodi:role="line"
+             style="font-size:11.25px;line-height:1.25">BPL3</tspan></text>
+        <use
+           xlink:href="#symbol7975"
+           y="0"
+           x="0"
+           width="17000"
+           transform="translate(9726.8615,-30.514543)"
+           style="display:inline"
+           id="use5563-2"
+           height="10000">
+          <desc
+             id="desc5565-4">model=I-BC2/DIA/BPL-05</desc>
+        </use>
+        <text
+           xml:space="preserve"
+           y="1927.4161"
+           x="12331.486"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           id="text5567-0"><tspan
+             sodipodi:role="line"
+             y="1927.4161"
+             x="12331.486"
+             id="tspan5569-2"
+             style="font-size:11.25px;line-height:1.25">BPL5</tspan><tspan
+             sodipodi:role="line"
+             y="1934.6628"
+             x="12331.486"
+             style="font-size:11.25px;line-height:1.25"
+             id="tspan5176" /></text>
+        <path
+           inkscape:connector-curvature="0"
+           style="display:inline;fill:none;stroke:#999999;stroke-width:0.896517px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path5571-5"
+           d="m 12372.363,1934.7125 v 56.2621" />
+      </g>
       <use
          height="10000"
          id="use9823-69"
@@ -5247,111 +5352,6 @@
            y="-1540.0482"
            sodipodi:role="line"
            style="font-size:11.25px;line-height:1.25">BPL2</tspan></text>
-      <use
-         height="10000"
-         id="use9823-6-4"
-         style="display:inline"
-         transform="translate(8726.979,190.38969)"
-         width="17000"
-         x="0"
-         y="0"
-         xlink:href="#symbol7975">
-        <desc
-           id="desc10445-8-0">model=I-MS3/DIA/BPL-01</desc>
-      </use>
-      <text
-         id="text10393-6-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-         transform="rotate(45)"
-         x="9573.1934"
-         y="-6491.7778"
-         xml:space="preserve"><tspan
-           id="tspan10395-3-7"
-           x="9573.1934"
-           y="-6491.7778"
-           sodipodi:role="line"
-           style="font-size:11.25px;line-height:1.25">BPL1</tspan></text>
-      <use
-         height="10000"
-         id="use9823-6-4-4"
-         style="display:inline"
-         transform="translate(8831.4434,190.06571)"
-         width="17000"
-         x="0"
-         y="0"
-         xlink:href="#symbol7975">
-        <desc
-           id="desc10445-8-0-7">model=I-MS3/DIA/BPL-02</desc>
-      </use>
-      <text
-         id="text10393-6-2-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-         transform="rotate(45)"
-         x="9648.2451"
-         y="-6567.2876"
-         xml:space="preserve"><tspan
-           id="tspan10395-3-7-6"
-           x="9648.2451"
-           y="-6567.2876"
-           sodipodi:role="line"
-           style="font-size:11.25px;line-height:1.25">BPL2</tspan></text>
-      <use
-         height="10000"
-         id="use9823-6-4-4-9"
-         style="display:inline"
-         transform="translate(8995.1425,189.90057)"
-         width="17000"
-         x="0"
-         y="0"
-         xlink:href="#symbol7975">
-        <desc
-           id="desc10445-8-0-7-2">model=I-MS3/DIA/BPL-03</desc>
-      </use>
-      <text
-         id="text10393-6-2-3-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-         transform="rotate(45)"
-         x="9763.8809"
-         y="-6683.1572"
-         xml:space="preserve"><tspan
-           id="tspan10395-3-7-6-1"
-           x="9763.8809"
-           y="-6683.1572"
-           sodipodi:role="line"
-           style="font-size:11.25px;line-height:1.25">BPL3</tspan></text>
-      <use
-         xlink:href="#symbol7975"
-         y="0"
-         x="0"
-         width="17000"
-         transform="translate(9726.8615,-30.514543)"
-         style="display:inline"
-         id="use5563-2"
-         height="10000">
-        <desc
-           id="desc5565-4">model=I-BC2/DIA/BPL-05</desc>
-      </use>
-      <text
-         xml:space="preserve"
-         y="1927.4161"
-         x="12331.486"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-         id="text5567-0"><tspan
-           sodipodi:role="line"
-           y="1927.4161"
-           x="12331.486"
-           id="tspan5569-2"
-           style="font-size:11.25px;line-height:1.25">BPL5</tspan><tspan
-           sodipodi:role="line"
-           y="1934.6628"
-           x="12331.486"
-           style="font-size:11.25px;line-height:1.25"
-           id="tspan5176" /></text>
-      <path
-         inkscape:connector-curvature="0"
-         style="display:inline;fill:none;stroke:#999999;stroke-width:0.896517px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="path5571-5"
-         d="m 12372.363,1934.7125 v 56.2621" />
       <use
          xlink:href="#symbol7975"
          y="0"
@@ -13921,31 +13921,31 @@
           <desc
              id="desc6578">model=I-TR1/VAC/IPE-08</desc>
         </use>
-      </g>
-      <use
-         height="10000"
-         id="use5404-6"
-         style="display:inline"
-         transform="rotate(-23.663141,7728.0332,-20685.529)"
-         width="17000"
-         x="0"
-         y="0"
-         xlink:href="#rect4002">
-        <desc
-           id="desc5655-9">model=i-bc2/pss/bd-02</desc>
-      </use>
-      <text
-         id="text5571-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-         transform="rotate(45)"
-         x="10158.522"
-         y="-7250.0166"
-         xml:space="preserve"><tspan
-           id="tspan5573-0"
+        <use
+           height="10000"
+           id="use5404-6"
+           style="display:inline"
+           transform="rotate(-23.663141,7728.0332,-20685.529)"
+           width="17000"
+           x="0"
+           y="0"
+           xlink:href="#rect4002">
+          <desc
+             id="desc5655-9">model=i-bc2/pss/bd-02</desc>
+        </use>
+        <text
+           id="text5571-6"
+           style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
            x="10158.522"
            y="-7250.0166"
-           sodipodi:role="line"
-           style="font-size:11.25px;line-height:1.25">BD2</tspan></text>
+           xml:space="preserve"><tspan
+             id="tspan5573-0"
+             x="10158.522"
+             y="-7250.0166"
+             sodipodi:role="line"
+             style="font-size:11.25px;line-height:1.25">BD2</tspan></text>
+      </g>
     </g>
     <g
        id="symbols"
