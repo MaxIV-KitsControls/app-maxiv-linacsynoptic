@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="10000"
    id="svg2"
    preserveAspectRatio="xMinYMin meet"
@@ -17,8 +8,16 @@
    version="1.1"
    viewBox="0 0 17000 10000"
    width="17000"
-   sodipodi:docname="linac_new.svg"
-   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+   sodipodi:docname="linac.svg"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      bordercolor="#666666"
      borderopacity="1.0"
@@ -30,9 +29,9 @@
      width="1800"
      inkscape:bbox-nodes="false"
      inkscape:bbox-paths="true"
-     inkscape:current-layer="layer10"
-     inkscape:cx="13078.234"
-     inkscape:cy="1790.6671"
+     inkscape:current-layer="layer6"
+     inkscape:cx="12563.143"
+     inkscape:cy="1820.8722"
      inkscape:document-units="px"
      inkscape:guide-bbox="true"
      inkscape:object-nodes="true"
@@ -54,13 +53,14 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-text-baseline="true"
      inkscape:snap-to-guides="true"
-     inkscape:window-height="1377"
-     inkscape:window-maximized="1"
-     inkscape:window-width="2560"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:zoom="2.4081141"
-     inkscape:document-rotation="0">
+     inkscape:window-height="900"
+     inkscape:window-maximized="0"
+     inkscape:window-width="1440"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:zoom="0.68593502"
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        color="#0000ff"
        dotted="true"
@@ -107,7 +107,7 @@
     </linearGradient>
     <linearGradient
        id="linearGradient3831"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          id="stop3833"
          offset="0"
@@ -164,7 +164,6 @@
            width="16919.383"
            x="54.423969"
            y="5.1524601"
-           sodipodi:absref="/home/johfor/Dropbox/progg/tango-svgsynoptic/beamlinesMAXXIV.png"
            xlink:href="file:///home/johfor/Dropbox/progg/tango-svgsynoptic/beamlinesMAXXIV.png" />
         <flowRoot
            id="flowRoot14211"
@@ -6938,40 +6937,6 @@
              y="-516.23151"
              sodipodi:role="line"
              style="font-size:11.25px;line-height:1.25">QB4</tspan></text>
-        <g
-           id="use10522"
-           transform="rotate(-7.4999999,4676.2015,-7946.208)">
-          <desc
-             id="desc19321">model=I-BC1/MAG/COEX-01</desc>
-          <g
-             id="use29432">
-            <use
-               height="10000"
-               id="use30149"
-               transform="translate(-642.99999,227.99999)"
-               width="17000"
-               x="0"
-               y="0"
-               xlink:href="#symbol30062" />
-          </g>
-        </g>
-        <g
-           id="use10554"
-           transform="rotate(-7.4999999,4543.0122,-8371.8349)">
-          <desc
-             id="desc22919">model=I-BC1/MAG/COEY-01</desc>
-          <g
-             id="use20532">
-            <use
-               height="10000"
-               id="use30101"
-               transform="translate(-708,243)"
-               width="17000"
-               x="0"
-               y="0"
-               xlink:href="#symbol30040" />
-          </g>
-        </g>
         <use
            height="10000"
            id="use10574"
@@ -7009,28 +6974,22 @@
              style="font-size:11.25px;line-height:1.25">DIA1</tspan></text>
         <text
            id="text22106"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            transform="rotate(45)"
            x="4081.2195"
            y="-640.4303"
            xml:space="preserve"><tspan
-             id="tspan22108"
-             x="4081.2195"
-             y="-640.4303"
              sodipodi:role="line"
-             style="font-size:11.25px;line-height:1.25">COEX1</tspan></text>
+             id="tspan2587">CODX1</tspan></text>
         <text
            id="text22110"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            transform="rotate(45)"
            x="4104.8174"
            y="-665.46649"
            xml:space="preserve"><tspan
-             id="tspan22112"
-             x="4104.8174"
-             y="-665.46649"
              sodipodi:role="line"
-             style="font-size:11.25px;line-height:1.25">COEY1</tspan></text>
+             id="tspan2607">CODY1</tspan></text>
         <text
            id="text22114"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -7189,42 +7148,6 @@
           <desc
              id="desc22927">model=I-BC1/MAG/QD-02</desc>
         </use>
-        <g
-           id="use10688"
-           transform="rotate(-22.5,3276.9933,-1899.8205)">
-          <desc
-             id="desc19323">model=I-BC1/MAG/COEX-02</desc>
-          <g
-             id="use29436">
-            <use
-               height="10000"
-               id="use30153"
-               transform="translate(-642.99999,227.99999)"
-               width="17000"
-               x="0"
-               y="0"
-               xlink:href="#symbol30062" />
-          </g>
-        </g>
-        <g
-           id="use10708"
-           style="display:inline"
-           transform="rotate(-22.5,3178.6169,-2122.0692)">
-          <desc
-             id="desc22935">model=I-BC1/MAG/COEY-02</desc>
-          <g
-             id="use20488"
-             transform="rotate(-5.7294958,1977.5,2157.4999)">
-            <use
-               height="10000"
-               id="use30105"
-               transform="translate(-708,243)"
-               width="17000"
-               x="0"
-               y="0"
-               xlink:href="#symbol30040" />
-          </g>
-        </g>
         <use
            height="10000"
            id="use10728"
@@ -7285,41 +7208,6 @@
           <desc
              id="desc22937">model=I-BC1/MAG/DIA-04</desc>
         </use>
-        <g
-           id="use10897"
-           style="display:inline"
-           transform="rotate(-22.5,3049.3225,-2537.7651)">
-          <desc
-             id="desc22949">model=I-BC1/MAG/COEY-03</desc>
-          <g
-             id="use20492">
-            <use
-               height="10000"
-               id="use30109"
-               transform="translate(-708,243)"
-               width="17000"
-               x="0"
-               y="0"
-               xlink:href="#symbol30040" />
-          </g>
-        </g>
-        <g
-           id="use10949"
-           transform="rotate(-22.5,3083.3154,-2542.4208)">
-          <desc
-             id="desc19325">model=I-BC1/MAG/COEX-03</desc>
-          <g
-             id="use29440">
-            <use
-               height="10000"
-               id="use30157"
-               transform="translate(-642.99999,227.99999)"
-               width="17000"
-               x="0"
-               y="0"
-               xlink:href="#symbol30062" />
-          </g>
-        </g>
         <use
            height="10000"
            id="use10969"
@@ -7392,41 +7280,6 @@
           <desc
              id="desc22963">model=I-BC1/MAG/DIA-07</desc>
         </use>
-        <g
-           id="use11529"
-           transform="rotate(-7.4999999,3076.076,-13597.753)">
-          <desc
-             id="desc19327">model=I-BC1/MAG/COEX-04</desc>
-          <g
-             id="use29444">
-            <use
-               height="10000"
-               id="use30161"
-               transform="translate(-642.99999,227.99999)"
-               width="17000"
-               x="0"
-               y="0"
-               xlink:href="#symbol30062" />
-          </g>
-        </g>
-        <g
-           id="use11549"
-           style="display:inline"
-           transform="rotate(-7.4999999,2948.0191,-14059.04)">
-          <desc
-             id="desc22967">model=I-BC1/MAG/COEY-04</desc>
-          <g
-             id="use20496">
-            <use
-               height="10000"
-               id="use30113"
-               transform="translate(-708,243)"
-               width="17000"
-               x="0"
-               y="0"
-               xlink:href="#symbol30040" />
-          </g>
-        </g>
         <use
            height="10000"
            id="use11581"
@@ -7465,28 +7318,22 @@
              style="font-size:11.25px;line-height:1.25">DIA5</tspan></text>
         <text
            id="text22222"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            transform="rotate(45)"
            x="4310.0562"
            y="-1149.9205"
            xml:space="preserve"><tspan
-             id="tspan22224"
-             x="4310.0562"
-             y="-1149.9205"
              sodipodi:role="line"
-             style="font-size:11.25px;line-height:1.25">COEY3</tspan></text>
+             id="tspan2627">CODY3</tspan></text>
         <text
            id="text22226"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            transform="rotate(45)"
            x="4320.5449"
            y="-1175.1174"
            xml:space="preserve"><tspan
-             id="tspan22228"
-             x="4320.5449"
-             y="-1175.1174"
              sodipodi:role="line"
-             style="font-size:11.25px;line-height:1.25">COEX3</tspan></text>
+             id="tspan2687">CODX3</tspan></text>
         <text
            id="text22230"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -7796,23 +7643,6 @@
              y="1908.3452"
              sodipodi:role="line"
              style="font-size:11.25px;line-height:1.25">COIY1</tspan></text>
-        <g
-           id="g4586"
-           transform="rotate(-7.4999999,3076.076,-13597.753)">
-          <desc
-             id="desc4588">model=I-BC1/MAG/COEX-04</desc>
-          <g
-             id="g4590">
-            <use
-               height="10000"
-               id="use4592"
-               transform="translate(-642.99999,227.99999)"
-               width="17000"
-               x="0"
-               y="0"
-               xlink:href="#symbol30062" />
-          </g>
-        </g>
         <use
            height="10000"
            id="use4576"
@@ -8832,30 +8662,6 @@
         </use>
         <use
            height="10000"
-           id="use7509"
-           style="display:inline"
-           transform="translate(7003.5,230.5)"
-           width="17000"
-           x="0"
-           y="0"
-           xlink:href="#symbol30040">
-          <desc
-             id="desc4480">model=i-s16a/mag/cody-01</desc>
-        </use>
-        <use
-           height="10000"
-           id="use7511"
-           style="display:inline"
-           transform="translate(7016.5,230.5)"
-           width="17000"
-           x="0"
-           y="0"
-           xlink:href="#symbol30062">
-          <desc
-             id="desc4482">model=i-s16a/mag/codx-01</desc>
-        </use>
-        <use
-           height="10000"
            id="use7513"
            style="display:inline"
            transform="translate(7093.7926,235.2253)"
@@ -8940,28 +8746,22 @@
              style="font-size:11.25px;line-height:1.25">QB1</tspan></text>
         <text
            id="text4947"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            transform="rotate(45)"
            x="8385.3975"
            y="-5309.103"
            xml:space="preserve"><tspan
-             id="tspan4949"
-             x="8385.3975"
-             y="-5309.103"
              sodipodi:role="line"
-             style="font-size:11.25px;line-height:1.25">CODY1</tspan></text>
+             id="tspan2767">COEY1</tspan></text>
         <text
            id="text4951"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            transform="rotate(45)"
            x="8370.1982"
            y="-5293.9038"
            xml:space="preserve"><tspan
-             id="tspan4953"
-             x="8370.1982"
-             y="-5293.9038"
              sodipodi:role="line"
-             style="font-size:11.25px;line-height:1.25">CODX1</tspan></text>
+             id="tspan2747">COEX1</tspan></text>
         <text
            id="text4955"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -9192,90 +8992,6 @@
         </use>
         <use
            height="10000"
-           id="use5422"
-           style="display:inline"
-           transform="translate(9215.5061,230.56066)"
-           width="17000"
-           x="0"
-           y="0"
-           xlink:href="#symbol30062">
-          <desc
-             id="desc5424">model=i-bc2/mag/codx-01</desc>
-        </use>
-        <use
-           height="10000"
-           id="use5426"
-           style="display:inline"
-           transform="rotate(-14.544598,8148.7955,-34922.584)"
-           width="17000"
-           x="0"
-           y="0"
-           xlink:href="#symbol30062">
-          <desc
-             id="desc5428">model=i-bc2/mag/codx-02</desc>
-        </use>
-        <use
-           height="10000"
-           id="use5430"
-           style="display:inline"
-           transform="rotate(-27.680557,7697.3484,-17676.545)"
-           width="17000"
-           x="0"
-           y="0"
-           xlink:href="#symbol30062">
-          <desc
-             id="desc5432">model=i-bc2/mag/codx-03</desc>
-        </use>
-        <use
-           height="10000"
-           id="use5434"
-           style="display:inline"
-           transform="matrix(0.96675146,0,0,0.95590641,9306.95,314.23363)"
-           width="17000"
-           x="0"
-           y="0"
-           xlink:href="#symbol30040">
-          <desc
-             id="desc5436">model=i-bc2/mag/cody-01</desc>
-        </use>
-        <use
-           height="10000"
-           id="use5438"
-           style="display:inline"
-           transform="rotate(-19.663892,7947.9882,-25170.147)"
-           width="17000"
-           x="0"
-           y="0"
-           xlink:href="#symbol30040">
-          <desc
-             id="desc5440">model=i-bc2/mag/cody-02</desc>
-        </use>
-        <use
-           height="10000"
-           id="use5442"
-           style="display:inline"
-           transform="rotate(-26.9055,7690.9385,-18334.053)"
-           width="17000"
-           x="0"
-           y="0"
-           xlink:href="#symbol30040">
-          <desc
-             id="desc5444">model=i-bc2/mag/cody-03</desc>
-        </use>
-        <use
-           height="10000"
-           id="use5446"
-           style="display:inline"
-           transform="rotate(-25.432726,7675.6875,-19648.737)"
-           width="17000"
-           x="0"
-           y="0"
-           xlink:href="#symbol30040">
-          <desc
-             id="desc5448">model=i-bc2/mag/cody-04</desc>
-        </use>
-        <use
-           height="10000"
            id="use5450"
            style="display:inline"
            transform="rotate(-22.835727,7720.2171,-22090.472)"
@@ -9285,30 +9001,6 @@
            xlink:href="#symbol-quadrupole">
           <desc
              id="desc5452">model=i-bc2/mag/qf-04</desc>
-        </use>
-        <use
-           height="10000"
-           id="use5454"
-           style="display:inline"
-           transform="rotate(-29.402946,7625.6367,-16809.722)"
-           width="17000"
-           x="0"
-           y="0"
-           xlink:href="#symbol30062">
-          <desc
-             id="desc5456">model=i-bc2/mag/codx-04</desc>
-        </use>
-        <use
-           height="10000"
-           id="use5458"
-           style="display:inline"
-           transform="rotate(-22.303183,7647.2736,-22995.962)"
-           width="17000"
-           x="0"
-           y="0"
-           xlink:href="#symbol30040">
-          <desc
-             id="desc5460">model=i-bc2/mag/cody-05</desc>
         </use>
         <use
            height="10000"
@@ -9324,18 +9016,6 @@
         </use>
         <use
            height="10000"
-           id="use5466"
-           style="display:inline"
-           transform="rotate(-19.571072,7596.8585,-26905.423)"
-           width="17000"
-           x="0"
-           y="0"
-           xlink:href="#symbol30062">
-          <desc
-             id="desc5468">model=i-bc2/mag/codx-05</desc>
-        </use>
-        <use
-           height="10000"
            id="use5470"
            style="display:inline"
            transform="rotate(-13.116149,7614.5936,-40981.764)"
@@ -9345,18 +9025,6 @@
            xlink:href="#symbol-dipole">
           <desc
              id="desc5472">model=i-bc2/mag/dib-06</desc>
-        </use>
-        <use
-           height="10000"
-           id="use5474"
-           style="display:inline"
-           transform="rotate(-14.4441,7538.91,-37683.4)"
-           width="17000"
-           x="0"
-           y="0"
-           xlink:href="#symbol30062">
-          <desc
-             id="desc5476">model=i-bc2/mag/codx-06</desc>
         </use>
         <use
            height="10000"
@@ -10816,37 +10484,10 @@
            y="-2502.4067"
            x="5578.3809"
            transform="rotate(45)"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            id="text5407"><tspan
-             id="tspan5409"
              sodipodi:role="line"
-             y="-2502.4067"
-             x="5578.3809"
-             style="font-size:11.25px;line-height:1.25">CODX1</tspan></text>
-        <use
-           xlink:href="#symbol30062"
-           y="0"
-           x="0"
-           width="17000"
-           transform="translate(3068.5,230.5)"
-           style="display:inline"
-           id="use5411"
-           height="10000">
-          <desc
-             id="desc5413">model=i-s05a/mag/codx-01</desc>
-        </use>
-        <use
-           xlink:href="#symbol30062"
-           y="0"
-           x="0"
-           width="17000"
-           transform="translate(7166.5,230.5)"
-           style="display:inline"
-           id="use5415"
-           height="10000">
-          <desc
-             id="desc5417">model=i-s16b/mag/codx-02</desc>
-        </use>
+             id="tspan2707">COEX1</tspan></text>
         <text
            xml:space="preserve"
            y="-5399.9585"
@@ -11028,25 +10669,10 @@
            y="-2520.1179"
            x="5596.0044"
            transform="rotate(45)"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            id="text5511"><tspan
              sodipodi:role="line"
-             y="-2520.1179"
-             x="5596.0044"
-             id="tspan5519"
-             style="font-size:11.25px;line-height:1.25">CODY1</tspan></text>
-        <use
-           xlink:href="#symbol30040"
-           y="0"
-           x="0"
-           width="17000"
-           transform="translate(3058.5,230.5)"
-           style="display:inline"
-           id="use5515"
-           height="10000">
-          <desc
-             id="desc5517">model=i-s05a/mag/cody-01</desc>
-        </use>
+             id="tspan2727">COEY1</tspan></text>
         <text
            id="text5523"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -11119,18 +10745,6 @@
              x="8610.2334"
              id="tspan5545"
              style="font-size:11.25px;line-height:1.25">CODY1</tspan></text>
-        <use
-           xlink:href="#symbol30040"
-           y="0"
-           x="0"
-           width="17000"
-           transform="translate(10117.201,-47.738304)"
-           style="display:inline"
-           id="use5555"
-           height="10000">
-          <desc
-             id="desc5557">model=i-bc2/mag/cody-06</desc>
-        </use>
         <use
            xlink:href="#symbol-dipole"
            y="0"
@@ -11239,6 +10853,306 @@
              y="-874.89203"
              sodipodi:role="line"
              style="font-size:11.25px;line-height:1.25">SCRP4</tspan></text>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30062"
+           id="use2569"
+           transform="translate(696.65275,490.54247)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc2571">model=I-BC1/MAG/CODX-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30040"
+           id="use5224"
+           transform="translate(688.40834,488.48137)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc5227">model=I-BC1/MAG/CODY-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30062"
+           id="use5313"
+           transform="translate(1000.7236,406.14378)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc5487">model=I-BC1/MAG/COEX-02</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30062"
+           id="use5309"
+           transform="translate(1422.3878,232.88356)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc5904">model=I-BC1/MAG/COEX-04</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30062"
+           id="use5311"
+           transform="translate(1231.9353,285.53164)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc5742">model=I-BC1/MAG/CODX-03</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30040"
+           id="use5485"
+           transform="translate(1020.9241,375.35252)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc5577">model=I-BC1/MAG/COEY-02</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30040"
+           id="use5483"
+           transform="translate(1418.362,229.99826)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc5986">model=I-BC1/MAG/COEY-04</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30040"
+           id="use5315"
+           transform="translate(1172.3484,295.04594)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc5660">model=I-BC1/MAG/CODY-03</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30062"
+           id="use6158"
+           transform="translate(3069.8512,230.3453)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc6186">model=i-s05a/mag/coex-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30062"
+           id="use6068"
+           transform="translate(7165.9869,230.76183)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc6514">model=i-s16b/mag/codx-02</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30062"
+           id="use6152"
+           transform="translate(9219.1785,231.29249)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc6596">model=i-bc2/mag/codx-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30062"
+           id="use6154"
+           transform="translate(9432.4146,199.74724)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc6760">model=i-bc2/mag/codx-02</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30062"
+           id="use6156"
+           transform="translate(9675.9975,104.05887)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc6924">model=i-bc2/mag/codx-03</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30062"
+           id="use6177"
+           transform="translate(7017.1043,230.22828)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc6350">model=i-s16a/mag/coex-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30040"
+           id="use6175"
+           transform="translate(7001.6072,229.18142)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc6352">model=i-s16a/mag/coey-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30040"
+           id="use6173"
+           transform="translate(9748.1034,50.791349)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc7088">model=i-bc2/mag/cody-04</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30040"
+           id="use6171"
+           transform="translate(9700.8014,73.321181)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc7006">model=i-bc2/mag/cody-03</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30040"
+           id="use6169"
+           transform="translate(9422.4922,191.54228)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc6762">model=i-bc2/mag/cody-02</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30040"
+           id="use6167"
+           transform="translate(9220.9191,228.91609)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc6598">model=i-bc2/mag/cody-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30040"
+           id="use6165"
+           transform="translate(3056.6991,228.34836)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc6268">model=i-s05a/mag/coey-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30062"
+           id="use7170"
+           transform="translate(9834.7509,29.15728)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc7189">model=i-bc2/mag/codx-04</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30062"
+           id="use7172"
+           transform="translate(9939.7171,-7.2893214)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc7353">model=i-bc2/mag/codx-05</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30040"
+           id="use7176"
+           transform="translate(9824.5458,20.410093)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc7191">model=i-bc2/mag/cody-05</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30040"
+           id="use7180"
+           transform="translate(10119.034,-46.651651)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc7357">model=i-bc2/mag/cody-06</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30062"
+           id="use7174"
+           transform="translate(10031.563,-30.615144)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc7355">model=i-bc2/mag/codx-06</desc>
+        </use>
       </g>
     </g>
     <g
