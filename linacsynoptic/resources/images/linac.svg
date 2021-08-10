@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="10000"
    id="svg2"
    preserveAspectRatio="xMinYMin meet"
@@ -17,8 +8,16 @@
    version="1.1"
    viewBox="0 0 17000 10000"
    width="17000"
-   sodipodi:docname="linac_new.svg"
-   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+   sodipodi:docname="linac.svg"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      bordercolor="#666666"
      borderopacity="1.0"
@@ -30,9 +29,9 @@
      width="1800"
      inkscape:bbox-nodes="false"
      inkscape:bbox-paths="true"
-     inkscape:current-layer="layer10"
-     inkscape:cx="13078.234"
-     inkscape:cy="1790.6671"
+     inkscape:current-layer="layer6"
+     inkscape:cx="7339.6228"
+     inkscape:cy="2105.8508"
      inkscape:document-units="px"
      inkscape:guide-bbox="true"
      inkscape:object-nodes="true"
@@ -54,13 +53,14 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-text-baseline="true"
      inkscape:snap-to-guides="true"
-     inkscape:window-height="1377"
-     inkscape:window-maximized="1"
-     inkscape:window-width="2560"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:zoom="2.4081141"
-     inkscape:document-rotation="0">
+     inkscape:window-height="900"
+     inkscape:window-maximized="0"
+     inkscape:window-width="1440"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:zoom="0.9074717"
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        color="#0000ff"
        dotted="true"
@@ -107,7 +107,7 @@
     </linearGradient>
     <linearGradient
        id="linearGradient3831"
-       osb:paint="solid">
+       inkscape:swatch="solid">
       <stop
          id="stop3833"
          offset="0"
@@ -164,7 +164,6 @@
            width="16919.383"
            x="54.423969"
            y="5.1524601"
-           sodipodi:absref="/home/johfor/Dropbox/progg/tango-svgsynoptic/beamlinesMAXXIV.png"
            xlink:href="file:///home/johfor/Dropbox/progg/tango-svgsynoptic/beamlinesMAXXIV.png" />
         <flowRoot
            id="flowRoot14211"
@@ -6942,7 +6941,7 @@
            id="use10522"
            transform="rotate(-7.4999999,4676.2015,-7946.208)">
           <desc
-             id="desc19321">model=I-BC1/MAG/COEX-01</desc>
+             id="desc19321">model=I-BC1/MAG/CODX-01</desc>
           <g
              id="use29432">
             <use
@@ -6959,7 +6958,7 @@
            id="use10554"
            transform="rotate(-7.4999999,4543.0122,-8371.8349)">
           <desc
-             id="desc22919">model=I-BC1/MAG/COEY-01</desc>
+             id="desc22919">model=I-BC1/MAG/CODY-01</desc>
           <g
              id="use20532">
             <use
@@ -7009,28 +7008,22 @@
              style="font-size:11.25px;line-height:1.25">DIA1</tspan></text>
         <text
            id="text22106"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            transform="rotate(45)"
            x="4081.2195"
            y="-640.4303"
            xml:space="preserve"><tspan
-             id="tspan22108"
-             x="4081.2195"
-             y="-640.4303"
              sodipodi:role="line"
-             style="font-size:11.25px;line-height:1.25">COEX1</tspan></text>
+             id="tspan2587">CODX1</tspan></text>
         <text
            id="text22110"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            transform="rotate(45)"
            x="4104.8174"
            y="-665.46649"
            xml:space="preserve"><tspan
-             id="tspan22112"
-             x="4104.8174"
-             y="-665.46649"
              sodipodi:role="line"
-             style="font-size:11.25px;line-height:1.25">COEY1</tspan></text>
+             id="tspan2607">CODY1</tspan></text>
         <text
            id="text22114"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -7290,7 +7283,7 @@
            style="display:inline"
            transform="rotate(-22.5,3049.3225,-2537.7651)">
           <desc
-             id="desc22949">model=I-BC1/MAG/COEY-03</desc>
+             id="desc22949">model=I-BC1/MAG/CODY-03</desc>
           <g
              id="use20492">
             <use
@@ -7307,7 +7300,7 @@
            id="use10949"
            transform="rotate(-22.5,3083.3154,-2542.4208)">
           <desc
-             id="desc19325">model=I-BC1/MAG/COEX-03</desc>
+             id="desc19325">model=I-BC1/MAG/CODX-03</desc>
           <g
              id="use29440">
             <use
@@ -7465,28 +7458,22 @@
              style="font-size:11.25px;line-height:1.25">DIA5</tspan></text>
         <text
            id="text22222"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            transform="rotate(45)"
            x="4310.0562"
            y="-1149.9205"
            xml:space="preserve"><tspan
-             id="tspan22224"
-             x="4310.0562"
-             y="-1149.9205"
              sodipodi:role="line"
-             style="font-size:11.25px;line-height:1.25">COEY3</tspan></text>
+             id="tspan2627">CODY3</tspan></text>
         <text
            id="text22226"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            transform="rotate(45)"
            x="4320.5449"
            y="-1175.1174"
            xml:space="preserve"><tspan
-             id="tspan22228"
-             x="4320.5449"
-             y="-1175.1174"
              sodipodi:role="line"
-             style="font-size:11.25px;line-height:1.25">COEX3</tspan></text>
+             id="tspan2687">CODX3</tspan></text>
         <text
            id="text22230"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -8840,7 +8827,7 @@
            y="0"
            xlink:href="#symbol30040">
           <desc
-             id="desc4480">model=i-s16a/mag/cody-01</desc>
+             id="desc4480">model=i-s16a/mag/coey-01</desc>
         </use>
         <use
            height="10000"
@@ -8852,7 +8839,7 @@
            y="0"
            xlink:href="#symbol30062">
           <desc
-             id="desc4482">model=i-s16a/mag/codx-01</desc>
+             id="desc4482">model=i-s16a/mag/coex-01</desc>
         </use>
         <use
            height="10000"
@@ -8940,28 +8927,22 @@
              style="font-size:11.25px;line-height:1.25">QB1</tspan></text>
         <text
            id="text4947"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            transform="rotate(45)"
            x="8385.3975"
            y="-5309.103"
            xml:space="preserve"><tspan
-             id="tspan4949"
-             x="8385.3975"
-             y="-5309.103"
              sodipodi:role="line"
-             style="font-size:11.25px;line-height:1.25">CODY1</tspan></text>
+             id="tspan2767">COEY1</tspan></text>
         <text
            id="text4951"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            transform="rotate(45)"
            x="8370.1982"
            y="-5293.9038"
            xml:space="preserve"><tspan
-             id="tspan4953"
-             x="8370.1982"
-             y="-5293.9038"
              sodipodi:role="line"
-             style="font-size:11.25px;line-height:1.25">CODX1</tspan></text>
+             id="tspan2747">COEX1</tspan></text>
         <text
            id="text4955"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -10816,13 +10797,10 @@
            y="-2502.4067"
            x="5578.3809"
            transform="rotate(45)"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            id="text5407"><tspan
-             id="tspan5409"
              sodipodi:role="line"
-             y="-2502.4067"
-             x="5578.3809"
-             style="font-size:11.25px;line-height:1.25">CODX1</tspan></text>
+             id="tspan2707">COEX1</tspan></text>
         <use
            xlink:href="#symbol30062"
            y="0"
@@ -10833,7 +10811,7 @@
            id="use5411"
            height="10000">
           <desc
-             id="desc5413">model=i-s05a/mag/codx-01</desc>
+             id="desc5413">model=i-s05a/mag/coex-01</desc>
         </use>
         <use
            xlink:href="#symbol30062"
@@ -11028,13 +11006,10 @@
            y="-2520.1179"
            x="5596.0044"
            transform="rotate(45)"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
            id="text5511"><tspan
              sodipodi:role="line"
-             y="-2520.1179"
-             x="5596.0044"
-             id="tspan5519"
-             style="font-size:11.25px;line-height:1.25">CODY1</tspan></text>
+             id="tspan2727">COEY1</tspan></text>
         <use
            xlink:href="#symbol30040"
            y="0"
@@ -11045,7 +11020,7 @@
            id="use5515"
            height="10000">
           <desc
-             id="desc5517">model=i-s05a/mag/cody-01</desc>
+             id="desc5517">model=i-s05a/mag/coey-01</desc>
         </use>
         <text
            id="text5523"
