@@ -29,9 +29,9 @@
      width="1800"
      inkscape:bbox-nodes="false"
      inkscape:bbox-paths="true"
-     inkscape:current-layer="layer6"
-     inkscape:cx="12563.143"
-     inkscape:cy="1820.8722"
+     inkscape:current-layer="layer12"
+     inkscape:cx="13351.116"
+     inkscape:cy="2183.7384"
      inkscape:document-units="px"
      inkscape:guide-bbox="true"
      inkscape:object-nodes="true"
@@ -53,12 +53,12 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-text-baseline="true"
      inkscape:snap-to-guides="true"
-     inkscape:window-height="900"
+     inkscape:window-height="798"
      inkscape:window-maximized="0"
      inkscape:window-width="1440"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:zoom="0.68593502"
+     inkscape:window-y="25"
+     inkscape:zoom="0.59714111"
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
@@ -3649,30 +3649,6 @@
           <desc
              id="desc10451-3">model=I-MS3/DIA/SCRN-01</desc>
         </use>
-        <use
-           height="10000"
-           id="use9823-6"
-           style="display:inline"
-           transform="translate(8889.0095,190.39712)"
-           width="17000"
-           x="0"
-           y="0"
-           xlink:href="#symbol7975">
-          <desc
-             id="desc10445-8">model=I-MS3/DIA/BPD-01</desc>
-        </use>
-        <text
-           id="text10393-6"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-           transform="rotate(45)"
-           x="9687.7705"
-           y="-6606.3447"
-           xml:space="preserve"><tspan
-             id="tspan10395-3"
-             x="9687.7705"
-             y="-6606.3447"
-             sodipodi:role="line"
-             style="font-size:11.25px;line-height:1.25">BPD1</tspan></text>
         <text
            id="text10417-2"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -3697,35 +3673,6 @@
           <desc
              id="desc6097-9">model=lima/beamviewer/I-MS3-DIA-SCRN-01</desc>
         </use>
-        <use
-           height="10000"
-           id="use9823-6-2"
-           style="display:inline"
-           transform="translate(8961.9905,190.7957)"
-           width="17000"
-           x="0"
-           y="0"
-           xlink:href="#symbol7975">
-          <desc
-             id="desc10445-8-4">model=I-MS3/DIA/BPD-02</desc>
-        </use>
-        <text
-           id="text10393-6-9"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-           transform="rotate(45)"
-           x="9739.6572"
-           y="-6657.6685"
-           xml:space="preserve"><tspan
-             id="tspan10395-3-2"
-             x="9739.6572"
-             y="-6657.6685"
-             sodipodi:role="line"
-             style="font-size:11.25px;line-height:1.25">BPD2</tspan><tspan
-             id="tspan4974"
-             x="9739.6572"
-             y="-6643.606"
-             sodipodi:role="line"
-             style="font-size:11.25px;line-height:1.25"> </tspan></text>
         <use
            height="10000"
            id="use6593-9"
@@ -4488,30 +4435,6 @@
           <desc
              id="desc26758-4-2-6-8">model=lima/beamviewer/I-SP02-DIA-SCRN-04</desc>
         </use>
-        <use
-           height="10000"
-           id="use4582-2"
-           style="display:inline"
-           transform="translate(10300.048,-87.752909)"
-           width="17000"
-           x="0"
-           y="0"
-           xlink:href="#symbol12414">
-          <desc
-             id="desc11738">model=I-SP02/DIA/DET-01</desc>
-        </use>
-        <text
-           id="text4800-6"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-           transform="rotate(45)"
-           x="10572.373"
-           y="-7886.6353"
-           xml:space="preserve"><tspan
-             id="tspan4802-9"
-             x="10572.373"
-             y="-7886.6353"
-             sodipodi:role="line"
-             style="font-size:11.25px;line-height:1.25">DET1</tspan></text>
         <use
            height="10000"
            id="use8486"
@@ -10338,27 +10261,6 @@
           <desc
              id="desc24231">model=I-GR00/MAG/COIY-04</desc>
         </use>
-        <g
-           id="g24213"
-           transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,2105.1188,-848.90333)">
-          <desc
-             id="desc24215">model=I-GR00/MAG/COIX-04</desc>
-          <g
-             id="g24217"
-             transform="translate(-2.8749,-48.7499)">
-            <g
-               id="g24219">
-              <use
-                 height="10000"
-                 id="use24221"
-                 transform="translate(-642.99999,227.99999)"
-                 width="17000"
-                 x="0"
-                 y="0"
-                 xlink:href="#symbol30062" />
-            </g>
-          </g>
-        </g>
         <text
            id="text24223"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -10370,17 +10272,6 @@
              y="2069.2012"
              sodipodi:role="line"
              style="font-size:11.25px;line-height:1.25">COIY4</tspan></text>
-        <text
-           id="text24227"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           x="2130.6226"
-           y="2035.1075"
-           xml:space="preserve"><tspan
-             id="tspan24229"
-             x="2130.6226"
-             y="2035.1075"
-             sodipodi:role="line"
-             style="font-size:11.25px;line-height:1.25">COIX4</tspan></text>
         <g
            transform="matrix(-0.70710459,0.70710459,0.70710459,0.70710459,1964.0126,-757.99492)"
            id="g11844">
