@@ -29,9 +29,9 @@
      width="1800"
      inkscape:bbox-nodes="false"
      inkscape:bbox-paths="true"
-     inkscape:current-layer="layer10"
-     inkscape:cx="13045.398"
-     inkscape:cy="1870.9738"
+     inkscape:current-layer="layer1"
+     inkscape:cx="4814.9661"
+     inkscape:cy="1993.04"
      inkscape:document-units="px"
      inkscape:guide-bbox="true"
      inkscape:object-nodes="true"
@@ -58,7 +58,7 @@
      inkscape:window-width="1440"
      inkscape:window-x="0"
      inkscape:window-y="23"
-     inkscape:zoom="1.6034913"
+     inkscape:zoom="1.0959739"
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
@@ -2494,6 +2494,25 @@
            style="display:inline;fill:none;stroke:#000000;stroke-width:0.856349px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.498039"
            sodipodi:nodetypes="cc"
            inkscape:connector-curvature="0" />
+        <rect
+           height="20"
+           id="rect4135"
+           style="display:inline;fill:#c87137;fill-opacity:1;stroke:#803300;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           width="90"
+           x="4857.375"
+           y="2134.375" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol7900"
+           id="use2543"
+           transform="translate(2081.6312,109.875)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc2547">model=I-K02/RF/PHS-01</desc>
+        </use>
       </g>
     </g>
     <g
@@ -5361,27 +5380,6 @@
            width="70.076813"
            x="-1546.0385"
            y="2385.4978" />
-        <g
-           id="g4129"
-           style="display:inline;stroke:#803300"
-           transform="translate(2407.375,0.625)">
-          <desc
-             id="desc28535">model=I-K02/RF/PHS-01</desc>
-          <rect
-             height="20"
-             id="rect4131"
-             style="fill:#c87137;fill-opacity:1;stroke:#803300;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             width="90"
-             x="2300"
-             y="2135" />
-        </g>
-        <rect
-           height="20"
-           id="rect4135"
-           style="display:inline;fill:#c87137;fill-opacity:1;stroke:#803300;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           width="90"
-           x="4857.375"
-           y="2134.375" />
         <g
            id="g4137"
            style="display:inline;stroke:#803300"
@@ -13166,19 +13164,17 @@
              y="1795.1758"
              sodipodi:role="line"
              style="font-size:11.25px;line-height:1.25;font-family:sans-serif">Pressure</tspan></text>
-        <use
-           height="10000"
+        <g
            id="use5000-4"
            style="display:inline"
-           transform="translate(10270.201,-210.7383)"
-           width="17000"
-           x="0"
-           y="0"
-           xlink:href="#symbol10455">
-          <desc
-             id="desc5002-7">model=I-SP02/VAC/IPFB-01
-</desc>
-        </use>
+           transform="translate(9800.701,-361.2383)">
+          <circle
+             cx="3115"
+             cy="2145"
+             id="circle2539"
+             r="10"
+             style="fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
         <text
            id="text5004-2"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
