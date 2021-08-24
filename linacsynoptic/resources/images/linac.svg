@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="10000"
    id="svg2"
    preserveAspectRatio="xMinYMin meet"
@@ -9,15 +17,7 @@
    viewBox="0 0 17000 10000"
    width="17000"
    sodipodi:docname="linac.svg"
-   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
   <sodipodi:namedview
      bordercolor="#666666"
      borderopacity="1.0"
@@ -29,9 +29,9 @@
      width="1800"
      inkscape:bbox-nodes="false"
      inkscape:bbox-paths="true"
-     inkscape:current-layer="layer12"
-     inkscape:cx="13351.116"
-     inkscape:cy="2183.7384"
+     inkscape:current-layer="layer10"
+     inkscape:cx="13045.398"
+     inkscape:cy="1870.9738"
      inkscape:document-units="px"
      inkscape:guide-bbox="true"
      inkscape:object-nodes="true"
@@ -57,8 +57,8 @@
      inkscape:window-maximized="0"
      inkscape:window-width="1440"
      inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:zoom="0.59714111"
+     inkscape:window-y="23"
+     inkscape:zoom="1.6034913"
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
@@ -13176,7 +13176,7 @@
            y="0"
            xlink:href="#symbol10455">
           <desc
-             id="desc5002-7">model=I-SP02/VAC/IPCUA-07
+             id="desc5002-7">model=I-SP02/VAC/IPFB-01
 </desc>
         </use>
         <text
