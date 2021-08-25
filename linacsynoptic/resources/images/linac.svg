@@ -29,7 +29,7 @@
      width="1800"
      inkscape:bbox-nodes="false"
      inkscape:bbox-paths="true"
-     inkscape:current-layer="layer10"
+     inkscape:current-layer="vacuum"
      inkscape:cx="2218.8686"
      inkscape:cy="1959.179"
      inkscape:document-units="px"
@@ -11803,424 +11803,424 @@
              id="desc27371">model=I-S09A/VAC/VGMB-01</desc>
         </use>
       </g>
+    </g>
+    <g
+       id="symbols"
+       style="display:inline"
+       inkscape:groupmode="layer"
+       inkscape:label="symbols">
       <g
-         id="symbols"
+         id="symbol-solenoid"
          style="display:inline"
-         inkscape:groupmode="layer"
-         inkscape:label="symbols">
-        <g
-           id="symbol-solenoid"
-           style="display:inline"
-           transform="translate(2795.1223,1881.1015)">
-          <path
-             d="m 45.377659,33.398543 a 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 z m 10,0 a 15,15 0 0 1 -15,15 15,15 0 0 1 -15,-15 15,15 0 0 1 15,-15 15,15 0 0 1 15,15 z"
-             id="path4003"
-             style="fill:#aad400;fill-opacity:1;fill-rule:nonzero;stroke:#5e9d41;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <ellipse
-             cx="40.377701"
-             cy="33.398499"
-             id="path24819-8"
-             rx="5.3033009"
-             ry="5.4800777"
-             style="color:#000000;text-decoration:none;text-decoration-line:none;display:inline;overflow:visible;visibility:visible;fill-opacity:1;fill-rule:nonzero;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.623457;enable-background:accumulate"
-             inkscape:label="status" />
-        </g>
-        <g
-           id="symbol30040"
-           style="display:inline"
-           transform="translate(708,-243)">
-          <path
-             d="m 1974,2146 h 7 v 23 h -7 z"
-             id="rect17580"
-             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#aa8800;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-             sodipodi:nodetypes="ccccc"
-             inkscape:connector-curvature="0" />
-          <ellipse
-             cx="1977.5"
-             cy="2157.5"
-             id="path24819-9"
-             rx="5.3033009"
-             ry="5.4800777"
-             inkscape:label="status" />
-        </g>
-        <g
-           id="symbol10623"
-           style="display:inline"
-           transform="translate(-829.49994,-220.50003)">
-          <path
-             d="m 2710.2094,2040.4314 -8.9264,-5.4967 0.01,-9.4817 8.2585,-5.7503 9.1305,5.0022 -0.01,10.4817 z"
-             id="path17836"
-             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#37c8ab;fill-opacity:1;fill-rule:nonzero;stroke:#2ca089;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-             transform="matrix(1,0,0,1.430075,835.01935,-768.14829)"
-             sodipodi:arg1="1.5707963"
-             sodipodi:arg2="2.0943951"
-             sodipodi:cx="2710"
-             sodipodi:cy="2030"
-             sodipodi:r1="10"
-             sodipodi:r2="7.0710678"
-             sodipodi:sides="6"
-             sodipodi:type="star"
-             inkscape:flatsided="true"
-             inkscape:randomized="0.05"
-             inkscape:rounded="0"
-             inkscape:transform-center-x="0.28441921"
-             inkscape:transform-center-y="0.36981059" />
-          <ellipse
-             cx="3545"
-             cy="2135"
-             id="path24819-95"
-             rx="5.3033009"
-             ry="5.4800777"
-             inkscape:label="status" />
-        </g>
-        <g
-           id="symbol10455"
-           style="display:inline"
-           transform="translate(-469.5,-150.5)">
-          <circle
-             cx="3115"
-             cy="2145"
-             id="path10453"
-             r="10"
-             style="fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        </g>
-        <g
-           id="symbol7975"
-           style="display:inline"
-           transform="translate(-74.5,-189.8934)">
-          <path
-             d="m 2720,2133.7868 10.6066,10.6066 L 2720,2155 l -10.6066,-10.6066 z"
-             id="rect7968"
-             style="display:inline;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="symbol7900"
-           style="display:inline;stroke:#803300"
-           transform="translate(340.5,-110.5)">
-          <rect
-             height="20"
-             id="rect6036"
-             style="fill:#c87137;fill-opacity:1;stroke:#803300;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             width="90"
-             x="2300"
-             y="2135" />
-        </g>
-        <g
-           id="symbol-aperture"
-           style="display:inline"
-           transform="translate(325.5,-45.5)">
-          <path
-             d="m 2365,1990 a 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 z m -15,-10 c 20,0 20,0 20,0 v 40 h -20 z"
-             id="path4076-9"
-             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="symbol-valve"
-           style="display:inline"
-           transform="matrix(0,-1.1844438,0.80858939,0,949.9404,4404.0188)">
-          <ellipse
-             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="path15606"
-             cx="2146.5559"
-             cy="-2034.2982"
-             transform="rotate(90)"
-             rx="11.243128"
-             ry="7.675395" />
-          <path
-             d="m 2024.3041,2131.4041 h 20 l -20,30 h 20 z"
-             id="valve"
-             style="fill-opacity:1;stroke:#000000;stroke-width:1.02183px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             inkscape:connector-curvature="0"
-             inkscape:label="valve" />
-        </g>
-        <g
-           id="symbol-ct"
-           style="display:inline"
-           transform="translate(771.19592,-191.90405)">
-          <ellipse
-             cx="1944.3041"
-             cy="2146.4041"
-             id="CT"
-             rx="5"
-             ry="15"
-             style="fill-opacity:1;stroke:#000000;stroke-opacity:1"
-             inkscape:label="CT" />
-        </g>
-        <g
-           id="g4062"
-           style="display:inline"
-           transform="translate(2470.5,1965.4055)">
-          <path
-             d="m 280,84.094482 v -10 h 70 v 10 0 0"
-             id="path4058"
-             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             d="m 280,54.094482 v 10 h 70 v -10 0 0"
-             id="path4060"
-             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="symbol-quadrupole"
-           style="display:inline;stroke-width:0.921954"
-           transform="matrix(1,0,0,1.1764706,205.99947,-613.5294)">
-          <path
-             d="m 2749.6096,2050.4667 -19.5769,-20.247 20.2781,-21.137 20.5208,20.2262 z"
-             id="path17834"
-             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#a365ff;fill-opacity:1;fill-rule:nonzero;stroke:#5500d4;stroke-width:1.44335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-             transform="matrix(0.48001521,0,0,0.84999999,1229.9587,419.49999)"
-             sodipodi:arg1="1.5707963"
-             sodipodi:arg2="2.3561945"
-             sodipodi:cx="2750"
-             sodipodi:cy="2030"
-             sodipodi:r1="20"
-             sodipodi:r2="14.142136"
-             sodipodi:sides="4"
-             sodipodi:type="star"
-             inkscape:flatsided="true"
-             inkscape:randomized="0.05"
-             inkscape:rounded="0"
-             inkscape:transform-center-x="-0.20697317"
-             inkscape:transform-center-y="0.15777621" />
-          <ellipse
-             cx="2550"
-             cy="2145"
-             id="path24819-76"
-             rx="5.3033009"
-             ry="4.6580663"
-             style="color:#000000;text-decoration:none;text-decoration-line:none;display:inline;overflow:visible;visibility:visible;fill-opacity:1;fill-rule:nonzero;stroke-width:1.15244;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.623457;enable-background:accumulate"
-             inkscape:label="status" />
-        </g>
-        <g
-           id="symbol-dipole"
-           style="display:inline"
-           transform="translate(155.5,-230.5)">
-          <rect
-             height="28"
-             id="rect24784"
-             style="fill:#ff5555;fill-opacity:1;stroke:#a02c2c;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             width="14"
-             x="2633"
-             y="2131" />
-          <ellipse
-             cx="2640"
-             cy="2145"
-             id="path24819-2"
-             rx="5.3033009"
-             ry="5.4800777"
-             style="color:#000000;text-decoration:none;text-decoration-line:none;display:inline;overflow:visible;visibility:visible;fill-opacity:1;fill-rule:nonzero;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.623457;enable-background:accumulate"
-             inkscape:label="status" />
-        </g>
-        <g
-           id="symbol12414"
-           style="display:inline"
-           transform="translate(456.90305,-191.19695)">
-          <path
-             d="m 2288.9505,2156.0505 h 20 v -20 z"
-             id="path4072"
-             style="fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             sodipodi:nodetypes="cccc"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="symbol30062"
-           style="display:inline"
-           transform="translate(642.99999,-227.99999)">
-          <path
-             d="m 2020.2343,2138.4493 v 7.071 h -25.4558 v -7.071 z"
-             id="rect18250"
-             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#aa8800;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-             transform="rotate(-45,2008.1251,2142.2501)"
-             sodipodi:nodetypes="ccccc"
-             inkscape:connector-curvature="0" />
-          <ellipse
-             cx="2007.5"
-             cy="2142.5"
-             id="path24819-7"
-             rx="5.3033009"
-             ry="5.4800777"
-             inkscape:label="status" />
-        </g>
+         transform="translate(2795.1223,1881.1015)">
+        <path
+           d="m 45.377659,33.398543 a 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 z m 10,0 a 15,15 0 0 1 -15,15 15,15 0 0 1 -15,-15 15,15 0 0 1 15,-15 15,15 0 0 1 15,15 z"
+           id="path4003"
+           style="fill:#aad400;fill-opacity:1;fill-rule:nonzero;stroke:#5e9d41;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
         <ellipse
-           cx="2640.5"
-           cy="2064.5"
-           id="path24819"
+           cx="40.377701"
+           cy="33.398499"
+           id="path24819-8"
            rx="5.3033009"
            ry="5.4800777"
-           style="fill-opacity:1;stroke:#280b0b;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.397059" />
+           style="color:#000000;text-decoration:none;text-decoration-line:none;display:inline;overflow:visible;visibility:visible;fill-opacity:1;fill-rule:nonzero;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.623457;enable-background:accumulate"
+           inkscape:label="status" />
+      </g>
+      <g
+         id="symbol30040"
+         style="display:inline"
+         transform="translate(708,-243)">
         <path
-           d="m 2740.5,1989.5 v 15 h -20 v -5 l -5,5 v -15 l 5,5 v -5 z"
-           id="rect5055"
-           style="display:inline;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1974,2146 h 7 v 23 h -7 z"
+           id="rect17580"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#aa8800;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           sodipodi:nodetypes="ccccc"
            inkscape:connector-curvature="0" />
+        <ellipse
+           cx="1977.5"
+           cy="2157.5"
+           id="path24819-9"
+           rx="5.3033009"
+           ry="5.4800777"
+           inkscape:label="status" />
+      </g>
+      <g
+         id="symbol10623"
+         style="display:inline"
+         transform="translate(-829.49994,-220.50003)">
         <path
-           d="m 2385.3206,1832.1049 -497.2893,497.0826 -8.0312,12.3122 -3,13.5 -0.5,11.5 5,15.5 8,10 13.5,9 14.5,4 L 1931,2405 h 355"
-           id="path3745"
-           style="display:inline;fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           sodipodi:nodetypes="ccccccccccc"
+           d="m 2710.2094,2040.4314 -8.9264,-5.4967 0.01,-9.4817 8.2585,-5.7503 9.1305,5.0022 -0.01,10.4817 z"
+           id="path17836"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#37c8ab;fill-opacity:1;fill-rule:nonzero;stroke:#2ca089;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           transform="matrix(1,0,0,1.430075,835.01935,-768.14829)"
+           sodipodi:arg1="1.5707963"
+           sodipodi:arg2="2.0943951"
+           sodipodi:cx="2710"
+           sodipodi:cy="2030"
+           sodipodi:r1="10"
+           sodipodi:r2="7.0710678"
+           sodipodi:sides="6"
+           sodipodi:type="star"
+           inkscape:flatsided="true"
+           inkscape:randomized="0.05"
+           inkscape:rounded="0"
+           inkscape:transform-center-x="0.28441921"
+           inkscape:transform-center-y="0.36981059" />
+        <ellipse
+           cx="3545"
+           cy="2135"
+           id="path24819-95"
+           rx="5.3033009"
+           ry="5.4800777"
+           inkscape:label="status" />
+      </g>
+      <g
+         id="symbol10455"
+         style="display:inline"
+         transform="translate(-469.5,-150.5)">
+        <circle
+           cx="3115"
+           cy="2145"
+           id="path10453"
+           r="10"
+           style="fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         id="symbol7975"
+         style="display:inline"
+         transform="translate(-74.5,-189.8934)">
+        <path
+           d="m 2720,2133.7868 10.6066,10.6066 L 2720,2155 l -10.6066,-10.6066 z"
+           id="rect7968"
+           style="display:inline;fill-opacity:1;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="symbol7900"
+         style="display:inline;stroke:#803300"
+         transform="translate(340.5,-110.5)">
         <rect
            height="20"
-           id="rect4002"
-           style="stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           width="20"
-           x="2786"
-           y="1945" />
-        <text
-           id="text4505"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="rect6036"
+           style="fill:#c87137;fill-opacity:1;stroke:#803300;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           width="90"
+           x="2300"
+           y="2135" />
+      </g>
+      <g
+         id="symbol-aperture"
+         style="display:inline"
+         transform="translate(325.5,-45.5)">
+        <path
+           d="m 2365,1990 a 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 z m -15,-10 c 20,0 20,0 20,0 v 40 h -20 z"
+           id="path4076-9"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="symbol-valve"
+         style="display:inline"
+         transform="matrix(0,-1.1844438,0.80858939,0,949.9404,4404.0188)">
+        <ellipse
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path15606"
+           cx="2146.5559"
+           cy="-2034.2982"
+           transform="rotate(90)"
+           rx="11.243128"
+           ry="7.675395" />
+        <path
+           d="m 2024.3041,2131.4041 h 20 l -20,30 h 20 z"
+           id="valve"
+           style="fill-opacity:1;stroke:#000000;stroke-width:1.02183px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           inkscape:label="valve" />
+      </g>
+      <g
+         id="symbol-ct"
+         style="display:inline"
+         transform="translate(771.19592,-191.90405)">
+        <ellipse
+           cx="1944.3041"
+           cy="2146.4041"
+           id="CT"
+           rx="5"
+           ry="15"
+           style="fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           inkscape:label="CT" />
+      </g>
+      <g
+         id="g4062"
+         style="display:inline"
+         transform="translate(2470.5,1965.4055)">
+        <path
+           d="m 280,84.094482 v -10 h 70 v 10 0 0"
+           id="path4058"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 280,54.094482 v 10 h 70 v -10 0 0"
+           id="path4060"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="symbol-quadrupole"
+         style="display:inline;stroke-width:0.921954"
+         transform="matrix(1,0,0,1.1764706,205.99947,-613.5294)">
+        <path
+           d="m 2749.6096,2050.4667 -19.5769,-20.247 20.2781,-21.137 20.5208,20.2262 z"
+           id="path17834"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#a365ff;fill-opacity:1;fill-rule:nonzero;stroke:#5500d4;stroke-width:1.44335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           transform="matrix(0.48001521,0,0,0.84999999,1229.9587,419.49999)"
+           sodipodi:arg1="1.5707963"
+           sodipodi:arg2="2.3561945"
+           sodipodi:cx="2750"
+           sodipodi:cy="2030"
+           sodipodi:r1="20"
+           sodipodi:r2="14.142136"
+           sodipodi:sides="4"
+           sodipodi:type="star"
+           inkscape:flatsided="true"
+           inkscape:randomized="0.05"
+           inkscape:rounded="0"
+           inkscape:transform-center-x="-0.20697317"
+           inkscape:transform-center-y="0.15777621" />
+        <ellipse
+           cx="2550"
+           cy="2145"
+           id="path24819-76"
+           rx="5.3033009"
+           ry="4.6580663"
+           style="color:#000000;text-decoration:none;text-decoration-line:none;display:inline;overflow:visible;visibility:visible;fill-opacity:1;fill-rule:nonzero;stroke-width:1.15244;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.623457;enable-background:accumulate"
+           inkscape:label="status" />
+      </g>
+      <g
+         id="symbol-dipole"
+         style="display:inline"
+         transform="translate(155.5,-230.5)">
+        <rect
+           height="28"
+           id="rect24784"
+           style="fill:#ff5555;fill-opacity:1;stroke:#a02c2c;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           width="14"
+           x="2633"
+           y="2131" />
+        <ellipse
+           cx="2640"
+           cy="2145"
+           id="path24819-2"
+           rx="5.3033009"
+           ry="5.4800777"
+           style="color:#000000;text-decoration:none;text-decoration-line:none;display:inline;overflow:visible;visibility:visible;fill-opacity:1;fill-rule:nonzero;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.623457;enable-background:accumulate"
+           inkscape:label="status" />
+      </g>
+      <g
+         id="symbol12414"
+         style="display:inline"
+         transform="translate(456.90305,-191.19695)">
+        <path
+           d="m 2288.9505,2156.0505 h 20 v -20 z"
+           id="path4072"
+           style="fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="symbol30062"
+         style="display:inline"
+         transform="translate(642.99999,-227.99999)">
+        <path
+           d="m 2020.2343,2138.4493 v 7.071 h -25.4558 v -7.071 z"
+           id="rect18250"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#aa8800;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           transform="rotate(-45,2008.1251,2142.2501)"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0" />
+        <ellipse
+           cx="2007.5"
+           cy="2142.5"
+           id="path24819-7"
+           rx="5.3033009"
+           ry="5.4800777"
+           inkscape:label="status" />
+      </g>
+      <ellipse
+         cx="2640.5"
+         cy="2064.5"
+         id="path24819"
+         rx="5.3033009"
+         ry="5.4800777"
+         style="fill-opacity:1;stroke:#280b0b;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.397059" />
+      <path
+         d="m 2740.5,1989.5 v 15 h -20 v -5 l -5,5 v -15 l 5,5 v -5 z"
+         id="rect5055"
+         style="display:inline;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 2385.3206,1832.1049 -497.2893,497.0826 -8.0312,12.3122 -3,13.5 -0.5,11.5 5,15.5 8,10 13.5,9 14.5,4 L 1931,2405 h 355"
+         id="path3745"
+         style="display:inline;fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="ccccccccccc"
+         inkscape:connector-curvature="0" />
+      <rect
+         height="20"
+         id="rect4002"
+         style="stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         width="20"
+         x="2786"
+         y="1945" />
+      <text
+         id="text4505"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="7430"
+         y="2010"
+         xml:space="preserve"><tspan
+           id="tspan4507"
            x="7430"
            y="2010"
-           xml:space="preserve"><tspan
-             id="tspan4507"
-             x="7430"
-             y="2010"
-             sodipodi:role="line"
-             style="font-size:14px;line-height:1.25"> </tspan></text>
-        <text
-           id="text4509"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           sodipodi:role="line"
+           style="font-size:14px;line-height:1.25"> </tspan></text>
+      <text
+         id="text4509"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="7378"
+         y="2020"
+         xml:space="preserve"><tspan
+           id="tspan4513"
            x="7378"
            y="2020"
-           xml:space="preserve"><tspan
-             id="tspan4513"
-             x="7378"
-             y="2020"
-             sodipodi:role="line"
-             style="font-size:12px;line-height:1.25">[johfor] This valve should be named</tspan><tspan
-             id="tspan4515"
-             x="7378"
-             y="2035"
-             sodipodi:role="line"
-             style="font-size:12px;line-height:1.25">I-EX1/VAC/VGMB-01. Also there</tspan><tspan
-             id="tspan4523"
-             x="7378"
-             y="2050"
-             sodipodi:role="line"
-             style="font-size:12px;line-height:1.25">is possibly something wrong</tspan><tspan
-             id="tspan4527"
-             x="7378"
-             y="2065"
-             sodipodi:role="line"
-             style="font-size:12px;line-height:1.25">with the tags; they do not control</tspan><tspan
-             id="tspan4529"
-             x="7378"
-             y="2080"
-             sodipodi:role="line"
-             style="font-size:12px;line-height:1.25">the corrent valve.</tspan></text>
-        <path
-           d="m 7435.75,2086.25 -23,36.75"
-           id="path4518"
-           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           sodipodi:nodetypes="cc"
-           inkscape:connector-curvature="0" />
-        <flowRoot
-           id="flowRoot22551"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0.01%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           transform="translate(-146.39258,-28.098685)"
-           xml:space="preserve"><flowRegion
-             id="flowRegion22553"><rect
-               height="201.52544"
-               id="rect22555"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:15px;line-height:100%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start"
-               width="216.37469"
-               x="1942.4222"
-               y="1823.0175" /></flowRegion><flowPara
-             id="flowPara22557"
-             style="font-size:15px;line-height:1">Gun Notes:</flowPara><flowPara
-             id="flowPara22569"
-             style="font-size:15px;line-height:1"> </flowPara><flowPara
-             id="flowPara23357"
-             style="font-size:15px;line-height:1">Some CT devices in G*00 are probably incorrectly named in Tango. Check naming convention. Also their order and positions remain a bit uncertain...</flowPara><flowPara
-             id="flowPara22575"
-             style="font-size:15px;line-height:1"> </flowPara><flowPara
-             id="flowPara22581"
-             style="font-size:15px;line-height:1">I-00/DIA/SCRN-* are also incorrectly named (?)</flowPara><flowPara
-             id="flowPara22571"
-             style="font-size:15px;line-height:1"> </flowPara><flowPara
-             id="flowPara22573"
-             style="font-size:15px;line-height:1"> </flowPara></flowRoot>
-        <text
-           id="text22587"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+           sodipodi:role="line"
+           style="font-size:12px;line-height:1.25">[johfor] This valve should be named</tspan><tspan
+           id="tspan4515"
+           x="7378"
+           y="2035"
+           sodipodi:role="line"
+           style="font-size:12px;line-height:1.25">I-EX1/VAC/VGMB-01. Also there</tspan><tspan
+           id="tspan4523"
+           x="7378"
+           y="2050"
+           sodipodi:role="line"
+           style="font-size:12px;line-height:1.25">is possibly something wrong</tspan><tspan
+           id="tspan4527"
+           x="7378"
+           y="2065"
+           sodipodi:role="line"
+           style="font-size:12px;line-height:1.25">with the tags; they do not control</tspan><tspan
+           id="tspan4529"
+           x="7378"
+           y="2080"
+           sodipodi:role="line"
+           style="font-size:12px;line-height:1.25">the corrent valve.</tspan></text>
+      <path
+         d="m 7435.75,2086.25 -23,36.75"
+         id="path4518"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0" />
+      <flowRoot
+         id="flowRoot22551"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0.01%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(-146.39258,-28.098685)"
+         xml:space="preserve"><flowRegion
+           id="flowRegion22553"><rect
+             height="201.52544"
+             id="rect22555"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:15px;line-height:100%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start"
+             width="216.37469"
+             x="1942.4222"
+             y="1823.0175" /></flowRegion><flowPara
+           id="flowPara22557"
+           style="font-size:15px;line-height:1">Gun Notes:</flowPara><flowPara
+           id="flowPara22569"
+           style="font-size:15px;line-height:1"> </flowPara><flowPara
+           id="flowPara23357"
+           style="font-size:15px;line-height:1">Some CT devices in G*00 are probably incorrectly named in Tango. Check naming convention. Also their order and positions remain a bit uncertain...</flowPara><flowPara
+           id="flowPara22575"
+           style="font-size:15px;line-height:1"> </flowPara><flowPara
+           id="flowPara22581"
+           style="font-size:15px;line-height:1">I-00/DIA/SCRN-* are also incorrectly named (?)</flowPara><flowPara
+           id="flowPara22571"
+           style="font-size:15px;line-height:1"> </flowPara><flowPara
+           id="flowPara22573"
+           style="font-size:15px;line-height:1"> </flowPara></flowRoot>
+      <text
+         id="text22587"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="1727.4624"
+         y="2230.9351"
+         xml:space="preserve"><tspan
+           id="tspan22589"
            x="1727.4624"
            y="2230.9351"
-           xml:space="preserve"><tspan
-             id="tspan22589"
-             x="1727.4624"
-             y="2230.9351"
-             sodipodi:role="line"
-             style="font-size:15px;line-height:1">Note:</tspan><tspan
-             id="tspan23355"
-             x="1727.4624"
-             y="2245.9351"
-             sodipodi:role="line"
-             style="font-size:15px;line-height:1">I-GS00/DIA/SCRN-01 is supposed </tspan><tspan
-             id="tspan22591"
-             x="1727.4624"
-             y="2260.9351"
-             sodipodi:role="line"
-             style="font-size:15px;line-height:1">to be here but has not</tspan><tspan
-             id="tspan22593"
-             x="1727.4624"
-             y="2275.9351"
-             sodipodi:role="line"
-             style="font-size:15px;line-height:1">been checked physically</tspan></text>
-        <path
-           d="m 1738.0131,2289.7079 4.2426,60.8112"
-           id="path22595"
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
-           sodipodi:nodetypes="cc"
-           inkscape:connector-curvature="0" />
-        <use
-           x="0"
-           y="0"
-           xlink:href="#symbol30040"
-           id="use2784"
-           transform="translate(5062.5301,479.03086)"
-           width="100%"
-           height="100%">
-          <desc
-             id="desc2864">model=i-tr1/mag/cody-01</desc>
-        </use>
-        <use
-           x="0"
-           y="0"
-           xlink:href="#symbol30062"
-           id="use2786"
-           transform="translate(5125.0912,479.03086)"
-           width="100%"
-           height="100%">
-          <desc
-             id="desc2866">model=i-tr1/mag/codx-01</desc>
-        </use>
-        <use
-           x="0"
-           y="0"
-           xlink:href="#symbol30040"
-           id="use2788"
-           transform="translate(4668.0336,230.73761)"
-           width="100%"
-           height="100%">
-          <desc
-             id="desc2796">model=i-ex1/mag/cody-01</desc>
-        </use>
-        <use
-           x="0"
-           y="0"
-           xlink:href="#symbol30062"
-           id="use2790"
-           transform="translate(4678.6515,230.73761)"
-           width="100%"
-           height="100%">
-          <desc
-             id="desc2798">model=i-ex1/mag/codx-01</desc>
-        </use>
-      </g>
+           sodipodi:role="line"
+           style="font-size:15px;line-height:1">Note:</tspan><tspan
+           id="tspan23355"
+           x="1727.4624"
+           y="2245.9351"
+           sodipodi:role="line"
+           style="font-size:15px;line-height:1">I-GS00/DIA/SCRN-01 is supposed </tspan><tspan
+           id="tspan22591"
+           x="1727.4624"
+           y="2260.9351"
+           sodipodi:role="line"
+           style="font-size:15px;line-height:1">to be here but has not</tspan><tspan
+           id="tspan22593"
+           x="1727.4624"
+           y="2275.9351"
+           sodipodi:role="line"
+           style="font-size:15px;line-height:1">been checked physically</tspan></text>
+      <path
+         d="m 1738.0131,2289.7079 4.2426,60.8112"
+         id="path22595"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#symbol30040"
+         id="use2784"
+         transform="translate(5062.5301,479.03086)"
+         width="100%"
+         height="100%">
+        <desc
+           id="desc2864">model=i-tr1/mag/cody-01</desc>
+      </use>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#symbol30062"
+         id="use2786"
+         transform="translate(5125.0912,479.03086)"
+         width="100%"
+         height="100%">
+        <desc
+           id="desc2866">model=i-tr1/mag/codx-01</desc>
+      </use>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#symbol30040"
+         id="use2788"
+         transform="translate(4668.0336,230.73761)"
+         width="100%"
+         height="100%">
+        <desc
+           id="desc2796">model=i-ex1/mag/cody-01</desc>
+      </use>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#symbol30062"
+         id="use2790"
+         transform="translate(4678.6515,230.73761)"
+         width="100%"
+         height="100%">
+        <desc
+           id="desc2798">model=i-ex1/mag/codx-01</desc>
+      </use>
     </g>
     <use
        id="use8849"
