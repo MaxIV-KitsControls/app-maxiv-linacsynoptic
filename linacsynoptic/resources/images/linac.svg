@@ -30,8 +30,8 @@
      inkscape:bbox-nodes="false"
      inkscape:bbox-paths="true"
      inkscape:current-layer="layer10"
-     inkscape:cx="12718.936"
-     inkscape:cy="1991.6013"
+     inkscape:cx="13745.365"
+     inkscape:cy="1698.2551"
      inkscape:document-units="px"
      inkscape:guide-bbox="true"
      inkscape:object-nodes="true"
@@ -58,7 +58,7 @@
      inkscape:window-width="1440"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:zoom="0.5894754"
+     inkscape:zoom="0.55233163"
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
@@ -80,6 +80,22 @@
   </sodipodi:namedview>
   <defs
      id="defs8812">
+    <linearGradient
+       id="linearGradient20423"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop20421" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient20417"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop20415" />
+    </linearGradient>
     <marker
        id="Arrow2Lend"
        orient="auto"
@@ -128,6 +144,66 @@
        x="0"
        y="0"
        xlink:href="#symbol30040" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20417"
+       id="linearGradient20419"
+       x1="13443.081"
+       y1="1867.2321"
+       x2="13594.438"
+       y2="1867.2321"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(10)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20423"
+       id="linearGradient20425"
+       x1="13443.081"
+       y1="1867.232"
+       x2="13594.438"
+       y2="1867.232"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(10)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20417"
+       id="linearGradient20466"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(270.56347,1.483889)"
+       x1="13443.081"
+       y1="1867.2321"
+       x2="13594.438"
+       y2="1867.2321" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20423"
+       id="linearGradient20468"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(270.56347,1.483889)"
+       x1="13443.081"
+       y1="1867.232"
+       x2="13594.438"
+       y2="1867.232" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20417"
+       id="linearGradient20484"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(506.99709,1.4838885)"
+       x1="13443.081"
+       y1="1867.2321"
+       x2="13594.438"
+       y2="1867.2321" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20423"
+       id="linearGradient20486"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(506.99709,1.4838885)"
+       x1="13443.081"
+       y1="1867.232"
+       x2="13594.438"
+       y2="1867.232" />
   </defs>
   <metadata
      id="metadata7">
@@ -2498,6 +2574,226 @@
           <desc
              id="desc2547">model=I-K02/RF/PHS-01</desc>
         </use>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;-inkscape-font-specification:'sans-serif, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="11173.17"
+           y="2072.782"
+           id="text2580-6"><tspan
+             sodipodi:role="line"
+             id="tspan18374">IPH2</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="11173.17"
+           y="2085.7461"
+           id="text2586-9"><desc
+             id="desc2582-4">model=I-EX3/VAC/IPH-02/Pressure</desc><tspan
+             sodipodi:role="line"
+             id="tspan2584-3"
+             x="11173.17"
+             y="2085.7461"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed'">Pressure</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="11430.306"
+           y="2080.2119"
+           id="text2586-9-6"><desc
+             id="desc2582-4-2">model=I-MS3/VAC/IPFA-09/Pressure</desc><tspan
+             sodipodi:role="line"
+             id="tspan2584-3-8"
+             x="11430.306"
+             y="2080.2119"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed'">Pressure</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="11776.858"
+           y="2077.6047"
+           id="text2586-9-2"><desc
+             id="desc2582-4-1">model=I-MS3/VAC/IPFA-10/Pressure</desc><tspan
+             sodipodi:role="line"
+             id="tspan2584-3-83"
+             x="11776.858"
+             y="2077.6047"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed'">Pressure</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="11633.216"
+           y="2327.8896"
+           id="text2586-9-5"><desc
+             id="desc2582-4-0">model=I-KTR3/VAC/IPCUA-03/Pressure</desc><tspan
+             sodipodi:role="line"
+             id="tspan2584-3-7"
+             x="11633.216"
+             y="2327.8896"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed'">Pressure</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="11733.787"
+           y="2324.1934"
+           id="text2586-9-9"><desc
+             id="desc2582-4-6">model=I-KTR3/VAC/IPCUA-04/Pressure</desc><tspan
+             sodipodi:role="line"
+             id="tspan2584-3-9"
+             x="11733.787"
+             y="2324.1934"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed'">Pressure</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="11856.412"
+           y="2320.8005"
+           id="text2586-9-52"><desc
+             id="desc2582-4-26">model=I-KTR3/VAC/IPCUA-05/Pressure</desc><tspan
+             sodipodi:role="line"
+             id="tspan2584-3-4"
+             x="11856.412"
+             y="2320.8005"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed'">Pressure</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="11956.144"
+           y="2321.5862"
+           id="text2586-9-97"><desc
+             id="desc2582-4-3">model=I-KTR3/VAC/IPCUA-06/Pressure</desc><tspan
+             sodipodi:role="line"
+             id="tspan2584-3-3"
+             x="11956.144"
+             y="2321.5862"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed'">Pressure</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="12065.68"
+           y="2326.1934"
+           id="text2586-9-0"><desc
+             id="desc2582-4-9">model=I-KTR3/VAC/IPCUA-07/Pressure</desc><tspan
+             sodipodi:role="line"
+             id="tspan2584-3-71"
+             x="12065.68"
+             y="2326.1934"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed'">Pressure</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="12233.929"
+           y="2327.7646"
+           id="text2586-9-3"><desc
+             id="desc2582-4-91">model=I-KTR3/VAC/IPCUA-08/Pressure</desc><tspan
+             sodipodi:role="line"
+             id="tspan2584-3-77"
+             x="12233.929"
+             y="2327.7646"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed'">Pressure</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="12605.142"
+           y="2204.8364"
+           id="text2586-9-4"><desc
+             id="desc2582-4-4">model=R3-301L/VAC/IPFE-01/Pressure</desc><tspan
+             sodipodi:role="line"
+             id="tspan2584-3-73"
+             x="12605.142"
+             y="2204.8364"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed'">Pressure</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="12516.445"
+           y="2182.783"
+           id="text2586-9-7"><desc
+             id="desc2582-4-7">model=R3-301L/VAC/IPH-01/Pressure</desc><tspan
+             sodipodi:role="line"
+             id="tspan2584-3-6"
+             x="12516.445"
+             y="2182.783"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed'">Pressure</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="11431.405"
+           y="2066.2151"
+           id="text2580-6-1"><tspan
+             sodipodi:role="line"
+             id="tspan18812">IPFA-09</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="11778.083"
+           y="2061.4292"
+           id="text2580-6-19"><tspan
+             sodipodi:role="line"
+             id="tspan18832">IPFA-10</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="11632.976"
+           y="2309.1072"
+           id="text2580-6-4"><tspan
+             sodipodi:role="line"
+             id="tspan18858">IPCUA-03</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="11734.761"
+           y="2307.4106"
+           id="text2580-6-9"><tspan
+             sodipodi:role="line"
+             id="tspan18982">IPCUA-04</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="11855.511"
+           y="2304.8035"
+           id="text2580-6-5"><tspan
+             sodipodi:role="line"
+             id="tspan19010">IPCUA-05</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="11955.903"
+           y="2304.8035"
+           id="text2580-6-55"><tspan
+             sodipodi:role="line"
+             id="tspan19030">IPCUA-06</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="12066.475"
+           y="2308.5"
+           id="text2580-6-99"><tspan
+             sodipodi:role="line"
+             id="tspan19050">IPCUA-07</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="12233.938"
+           y="2310.0178"
+           id="text2580-6-0"><tspan
+             sodipodi:role="line"
+             id="tspan19070">IPCUA-08</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="12515.42"
+           y="2166.0005"
+           id="text2580-6-94"><tspan
+             sodipodi:role="line"
+             id="tspan19230">IPH1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="12604.419"
+           y="2185.2683"
+           id="text2580-6-2"><tspan
+             sodipodi:role="line"
+             id="tspan19250">IPFE1</tspan></text>
       </g>
     </g>
     <g
@@ -2824,18 +3120,18 @@
         <text
            id="text4545"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-           x="3378.8179"
-           y="2313.3669"
+           x="3377.1968"
+           y="2256.1887"
            xml:space="preserve"><tspan
              id="tspan4547"
-             x="3378.8179"
-             y="2313.3669"
+             x="3377.1968"
+             y="2256.1887"
              sodipodi:role="line"
              style="font-size:11.25px;line-height:1.25">BPL1</tspan></text>
         <path
-           d="m 3418.2703,2319.4692 v 75"
+           d="m 3418.2703,2265.154 v 129.3152"
            id="path4549"
-           style="display:inline;fill:none;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="display:inline;fill:none;stroke:#999999;stroke-width:1.31309px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            inkscape:connector-curvature="0" />
         <path
            d="m 3926.225,2114.8403 v 72.4565"
@@ -2973,7 +3269,7 @@
         <g
            id="use4541"
            style="display:inline"
-           transform="translate(698.15605,164.6645)">
+           transform="translate(698.53504,109.48627)">
           <desc
              id="desc7806">model=i-bc1/dia/bpl-01</desc>
           <path
@@ -4024,19 +4320,6 @@
              y="-8094.6143"
              sodipodi:role="line"
              style="font-size:11.2499px;line-height:1.25">VGMB1</tspan></text>
-        <g
-           id="g4638-6"
-           style="display:inline"
-           transform="translate(11317.49,-277.1424)">
-          <desc
-             id="desc3920-3">model=I-SP02/VAC/VGMB-01</desc>
-          <path
-             d="m 2024.3041,2131.4041 h 20 l -20,30 h 20 z"
-             id="path4640-2"
-             style="fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             inkscape:connector-curvature="0"
-             inkscape:label="valve" />
-        </g>
         <use
            height="10000"
            id="use6477-6-1"
@@ -4102,19 +4385,6 @@
              y="-8301.4404"
              sodipodi:role="line"
              style="font-size:11.2499px;line-height:1.25">VGMB2</tspan></text>
-        <g
-           id="g4638-6-5"
-           style="display:inline"
-           transform="translate(11617.802,-277.32675)">
-          <desc
-             id="desc3920-3-9">model=I-SP02/VAC/VGMB-02</desc>
-          <path
-             d="m 2024.3041,2131.4041 h 20 l -20,30 h 20 z"
-             id="path4640-2-3"
-             style="fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             inkscape:connector-curvature="0"
-             inkscape:label="valve" />
-        </g>
         <use
            height="10000"
            id="use4578-8-5"
@@ -4192,19 +4462,6 @@
              y="-8491.457"
              sodipodi:role="line"
              style="font-size:11.2499px;line-height:1.25">VGMB3</tspan></text>
-        <g
-           id="g4638-6-5-2"
-           style="display:inline"
-           transform="translate(11887.331,-278.52049)">
-          <desc
-             id="desc3920-3-9-3">model=I-SP02/VAC/VGMB-03</desc>
-          <path
-             d="m 2024.3041,2131.4041 h 20 l -20,30 h 20 z"
-             id="path4640-2-3-6"
-             style="fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             inkscape:connector-curvature="0"
-             inkscape:label="valve" />
-        </g>
         <use
            height="10000"
            id="use6477-6-3-7-5"
@@ -4246,19 +4503,6 @@
              y="-8661.0967"
              sodipodi:role="line"
              style="font-size:11.2499px;line-height:1.25">VGMB4</tspan></text>
-        <g
-           id="g4638-6-5-2-9"
-           style="display:inline"
-           transform="translate(12120.873,-278.4676)">
-          <desc
-             id="desc3920-3-9-3-3">model=I-SP02/VAC/VGMB-04</desc>
-          <path
-             d="m 2024.3041,2131.4041 h 20 l -20,30 h 20 z"
-             id="path4640-2-3-6-5"
-             style="fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             inkscape:connector-curvature="0"
-             inkscape:label="valve" />
-        </g>
         <use
            height="10000"
            id="use4578-8-5-2"
@@ -4808,19 +5052,6 @@
              x="11476.777"
              id="tspan11872"
              style="font-size:11.2499px;line-height:1.25">VGMB6</tspan></text>
-        <g
-           transform="translate(12313.39,-278.4676)"
-           style="display:inline"
-           id="g11874">
-          <desc
-             id="desc11876">model=I-SP02/VAC/VGMB-06</desc>
-          <path
-             inkscape:label="valve"
-             inkscape:connector-curvature="0"
-             style="fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="path11878"
-             d="m 2024.3041,2131.4041 h 20 l -20,30 h 20 z" />
-        </g>
         <text
            id="text11880"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -4833,19 +5064,6 @@
              y="-8809.8008"
              sodipodi:role="line"
              style="font-size:11.2499px;line-height:1.25">VGMB5</tspan></text>
-        <g
-           id="g11884"
-           style="display:inline"
-           transform="translate(12234.737,-381.32136)">
-          <desc
-             id="desc11886">model=I-SP02/VAC/VGMB-05</desc>
-          <path
-             d="m 2024.3041,2131.4041 h 20 l -20,30 h 20 z"
-             id="path11888"
-             style="fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             inkscape:connector-curvature="0"
-             inkscape:label="valve" />
-        </g>
         <text
            xml:space="preserve"
            y="-4064.8162"
@@ -5322,6 +5540,64 @@
           <desc
              id="desc2974">model=I-MS1/DIA/SCRN-01</desc>
         </use>
+        <text
+           id="text6709-4-0-25"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="10114.756"
+           y="-7151.9468"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan19159"
+             x="10114.756"
+             y="-7151.9468">SCRP1</tspan></text>
+        <text
+           id="text6709-4-0-25-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="10129.272"
+           y="-7181.165"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan19206">SCRP2</tspan></text>
+        <text
+           id="text4907-9-0-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="10902.842"
+           y="-8207.2021"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan20539"
+             x="10902.842"
+             y="-8207.2021">IDUA1 </tspan></text>
+        <text
+           id="text4907-9-0-8-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="11083.896"
+           y="-8390.8633"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan20586">IDUA2</tspan></text>
+        <text
+           id="text4907-9-0-8-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="11248.951"
+           y="-8557.2881"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan20617">IDUA3</tspan></text>
+        <text
+           id="text4903-8-79"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           transform="rotate(45)"
+           x="10828.781"
+           y="-8146.6387"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan25828">BD1</tspan></text>
       </g>
     </g>
     <g
@@ -10824,30 +11100,6 @@
              id="tspan2582-0"
              x="5525.9805"
              y="-2453.4756">VGMB1</tspan></text>
-        <use
-           x="0"
-           y="0"
-           xlink:href="#symbol30062"
-           id="use2790"
-           transform="translate(4678.6515,230.73761)"
-           width="100%"
-           height="100%"
-           style="display:inline">
-          <desc
-             id="desc2798">model=i-ex1/mag/codx-01</desc>
-        </use>
-        <use
-           x="0"
-           y="0"
-           xlink:href="#symbol30040"
-           id="use2788"
-           transform="translate(4668.0336,230.73761)"
-           width="100%"
-           height="100%"
-           style="display:inline">
-          <desc
-             id="desc2796">model=i-ex1/mag/cody-01</desc>
-        </use>
         <text
            id="text6571-8"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -10983,6 +11235,54 @@
            xml:space="preserve"><tspan
              sodipodi:role="line"
              id="tspan12913">VGMB2</tspan></text>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30040"
+           id="use2784"
+           transform="translate(5062.5301,479.03086)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc2864">model=i-tr1/mag/cody-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30062"
+           id="use2786"
+           transform="translate(5125.0912,479.03086)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc2866">model=i-tr1/mag/codx-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30062"
+           id="use2790"
+           transform="translate(4678.6515,230.73761)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc2798">model=i-ex1/mag/codx-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30040"
+           id="use2788"
+           transform="translate(4668.0336,230.73761)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc2796">model=i-ex1/mag/cody-01</desc>
+        </use>
       </g>
     </g>
     <g
@@ -13134,6 +13434,754 @@
            xml:space="preserve"><tspan
              sodipodi:role="line"
              id="tspan12860">VGFA1</tspan></text>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol10455"
+           id="use15309"
+           transform="translate(10315.657,-236.52915)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc19470">model=I-SP02/VAC/IPFB-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol10455"
+           id="use15311"
+           transform="translate(9578.0078,344.37399)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc18990">model=I-KTR3/VAC/IPCUA-08</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol10455"
+           id="use15313"
+           transform="translate(9209.8839,344.37399)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc18984">model=I-KTR3/VAC/IPCUA-05</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol10455"
+           id="use15315"
+           transform="translate(8770.5102,79.73191)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc18790">model=I-MS3/VAC/IPFA-09</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol10455"
+           id="use15317"
+           transform="translate(8514.3502,81.731911)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc18354">model=I-EX3/VAC/IPH-02</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol10455"
+           id="use15319"
+           transform="translate(9305.1872,342.98115)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc18986">model=I-KTR3/VAC/IPCUA-06</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol10455"
+           id="use15321"
+           transform="translate(9410.0619,342.67757)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc18988">model=I-KTR3/VAC/IPCUA-07</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol10455"
+           id="use15323"
+           transform="translate(9084.3486,344.67757)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc18960">model=I-KTR3/VAC/IPCUA-04</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol10455"
+           id="use15325"
+           transform="translate(9048.7236,344.374)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc18836">model=I-KTR3/VAC/IPCUA-03</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol10455"
+           id="use15327"
+           transform="translate(9116.5805,83.124758)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc18834">model=I-MS3/VAC/IPFA-10</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol10455"
+           id="use15329"
+           transform="translate(9863.6142,203.57083)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc19252">model=R3-301L/VAC/IPH-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol10455"
+           id="use15350"
+           transform="translate(5803.7688,313.53479)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc18287">model=I-TR1/VAC/IPE-08</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol10455"
+           id="use15352"
+           transform="translate(5513.0732,311.83837)"
+           width="100%"
+           height="100%"
+           style="display:inline" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol10455"
+           id="use15354"
+           transform="translate(5633.8228,313.83837)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc18285">model=I-TR1/VAC/IPFA-07</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol10455"
+           id="use15356"
+           transform="translate(5420.0734,312.14194)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc18281">model=I-TR1/VAC/IPFA-05</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol10455"
+           id="use15358"
+           transform="translate(5325.0737,309.05267)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc18279">model=I-TR1/VAC/IPGB-04</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol10455"
+           id="use15360"
+           transform="translate(9944.4353,210.35653)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc19254">model=R3-301L/VAC/IPFE-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol10455"
+           id="use15362"
+           transform="translate(5289.4489,308.7491)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc18277">model=I-TR1/VAC/IPGA-03</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#rect4002"
+           id="use15342"
+           transform="translate(5140.1636,439.37372)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc15522">model=I-TR1/PSS/BD-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#rect4002"
+           id="use15344"
+           transform="translate(5172.3956,439.67729)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc15524">model=I-TR1/PSS/BD-02</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#rect4002"
+           id="use15346"
+           transform="rotate(-22.64959,7759.3425,-21658.534)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc19208">model=I-BC2/PSS/BD-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#rect4002"
+           id="use15348"
+           transform="rotate(-25.859118,7717.64,-18703.843)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc19210">model=I-BC2/PSS/BD-02</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#rect4002"
+           id="use15382"
+           transform="translate(8882.4741,451.55226)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc18956">model=I-TR3/PSS/BD-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#rect4002"
+           id="use15384"
+           transform="translate(8916.7062,451.24868)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc18958">model=I-TR3/PSS/BD-02</desc>
+        </use>
+        <text
+           id="text6643-63"
+           style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="7318.9175"
+           y="-3890.4214"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan15465"
+             x="7318.9175"
+             y="-3890.4214">BD1</tspan></text>
+        <text
+           id="text6643-63-6"
+           style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="7339.7612"
+           y="-3912.3845"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan15512"
+             x="7339.7612"
+             y="-3912.3845">BD2</tspan></text>
+        <path
+           d="m 7935.8697,2314.5467 v 70"
+           id="path2550-7"
+           style="display:inline;fill:none;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 7969.7982,2314.5468 v 70"
+           id="path2550-2"
+           style="display:inline;fill:none;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 8065.8337,2317.529 v 70"
+           id="path2550-2-6"
+           style="display:inline;fill:none;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 8159.3155,2318.9753 v 70"
+           id="path2550-2-6-4"
+           style="display:inline;fill:none;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0">
+          <desc
+             id="desc18283">model=I-TR1/VAC/IPFA-06</desc>
+        </path>
+        <path
+           d="m 8449.1004,2317.4574 v 70"
+           id="path2550-2-6-4-8"
+           style="display:inline;fill:none;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 8279.2079,2320.3682 v 70"
+           id="path2550-2-6-4-9"
+           style="display:inline;fill:none;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="7868.0664"
+           y="2306.4968"
+           id="text19800-5"><desc
+             id="desc19796-8">model=I-TR1/VAC/IPGA-03/Pressure</desc><tspan
+             sodipodi:role="line"
+             id="tspan19798-5"
+             x="7868.0664"
+             y="2306.4968"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed'">Pressure</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="7967.2983"
+           y="2287.6577"
+           id="text19800-5-5"><desc
+             id="desc19796-8-4">model=I-TR1/VAC/IPGB-04/Pressure</desc><tspan
+             sodipodi:role="line"
+             id="tspan19798-5-3"
+             x="7967.2983"
+             y="2287.6577"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed'">Pressure</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="8061.5122"
+           y="2287.3542"
+           id="text19800-9"><desc
+             id="desc19796-2">model=I-TR1/VAC/IPFA-05/Pressure</desc><tspan
+             sodipodi:role="line"
+             id="tspan19798-2"
+             x="8061.5122"
+             y="2287.3542"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed'">Pressure</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="8157.6011"
+           y="2289.354"
+           id="text19800-96"><desc
+             id="desc19796-5">model=I-TR1/VAC/IPFA-06/Pressure</desc><tspan
+             sodipodi:role="line"
+             id="tspan19798-9"
+             x="8157.6011"
+             y="2289.354"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed'">Pressure</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="8296.4053"
+           y="2314.8"
+           id="text19800-0"><desc
+             id="desc19796-88">model=I-TR1/VAC/IPFA-07/Pressure</desc><tspan
+             sodipodi:role="line"
+             id="tspan19798-3"
+             x="8296.4053"
+             y="2314.8"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed'">Pressure</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="8464.3506"
+           y="2314.8005"
+           id="text19800-7"><desc
+             id="desc19796-6">model=I-TR1/VAC/IPE-08/Pressure</desc><tspan
+             sodipodi:role="line"
+             id="tspan19798-8"
+             x="8464.3506"
+             y="2314.8005"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed'">Pressure</tspan></text>
+        <path
+           d="m 11159.557,2086.0941 v 53.9782"
+           id="path8579-0"
+           style="display:inline;fill:none;stroke:#999999;stroke-width:0.878132px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 11415.538,2085.3084 v 53.9782"
+           id="path8579-0-1"
+           style="display:inline;fill:none;stroke:#999999;stroke-width:0.878132px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 11760.716,2086.5942 v 53.9782"
+           id="path8579-0-6"
+           style="display:inline;fill:none;stroke:#999999;stroke-width:0.878132px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 11694.841,2350.004 v 53.9782"
+           id="path8579-0-1-9"
+           style="display:inline;fill:none;stroke:#999999;stroke-width:0.878132px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 11730.037,2348.5576 v 53.9782"
+           id="path8579-0-1-6"
+           style="display:inline;fill:none;stroke:#999999;stroke-width:0.878132px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 11854.912,2350.4861 v 53.9782"
+           id="path8579-0-1-7"
+           style="display:inline;fill:none;stroke:#999999;stroke-width:0.878132px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 11949.912,2347.0397 v 53.9782"
+           id="path8579-0-1-94"
+           style="display:inline;fill:none;stroke:#999999;stroke-width:0.878132px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 12055.876,2348.6111 v 53.9782"
+           id="path8579-0-1-5"
+           style="display:inline;fill:none;stroke:#999999;stroke-width:0.878132px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           d="M 12224.125,2349.2718 V 2403.25"
+           id="path8579-0-1-1"
+           style="display:inline;fill:none;stroke:#999999;stroke-width:0.878132px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 12508.035,2207.2008 v 53.9782"
+           id="path8579-0-1-90"
+           style="display:inline;fill:none;stroke:#999999;stroke-width:0.878132px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 12589.338,2216.5047 v 53.9782"
+           id="path8579-0-1-2"
+           style="display:inline;fill:none;stroke:#999999;stroke-width:0.878132px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text6709-4-0"
+           style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="9971.5391"
+           y="-6528.6313"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan18905"
+             x="9971.5391"
+             y="-6528.6313">BD1</tspan></text>
+        <text
+           id="text6709-4-0-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="9997.2871"
+           y="-6554.228"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan18954">BD2</tspan></text>
+        <text
+           id="text6709-4-0-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="10146.246"
+           y="-7215.7378"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan18905-1"
+             x="10146.246"
+             y="-7215.7378">BD1</tspan></text>
+        <text
+           id="text6709-4-0-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="10160.426"
+           y="-7244.7417"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan19128">BD2</tspan></text>
+        <path
+           d="m 12960.498,1767.903 v 95.5272"
+           id="path8579-0-1-90-1"
+           style="display:inline;fill:none;stroke:#999999;stroke-width:1.16819px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="12974.338"
+           y="1762.225"
+           id="text2586-9-4-8"><desc
+             id="desc2582-4-4-8">model=I-SP02/VAC/IPFB-01/Pressure</desc><tspan
+             sodipodi:role="line"
+             id="tspan2584-3-73-4"
+             x="12974.338"
+             y="1762.225"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed'">Pressure</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="12973.615"
+           y="1742.6569"
+           id="text2580-6-2-7"><tspan
+             sodipodi:role="line"
+             id="tspan19426">IPFB1</tspan></text>
+        <rect
+           id="rect19494"
+           width="151.35709"
+           height="48.473839"
+           x="13453.081"
+           y="1842.9951"
+           style="fill:url(#linearGradient20419);fill-opacity:1;stroke:url(#linearGradient20425)" />
+        <rect
+           id="rect19494-1"
+           width="151.35709"
+           height="48.473839"
+           x="13713.646"
+           y="1844.479"
+           style="display:inline;fill:url(#linearGradient20466);fill-opacity:1;stroke:url(#linearGradient20468)" />
+        <rect
+           id="rect19494-3"
+           width="151.35709"
+           height="48.473839"
+           x="13950.078"
+           y="1844.479"
+           style="display:inline;fill:url(#linearGradient20484);fill-opacity:1;stroke:url(#linearGradient20486)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol10455"
+           id="use20619"
+           transform="translate(11753.134,-231.11163)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc26014">model=I-SP02/VAC/IPFA-06</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol10455"
+           id="use20621"
+           transform="translate(10877.242,-255.6562)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc25972">model=I-SP02/VAC/IPFA-03</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol10455"
+           id="use20623"
+           transform="translate(10799.561,-236.07812)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc25970">model=I-SP02/VAC/IPG-02</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#rect4002"
+           id="use25778"
+           transform="translate(10631.46,-85.947217)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc25808">model=I-SP02/MPS/BD-01</desc>
+        </use>
+        <path
+           d="m 13445.36,1770.5641 v 95.5272"
+           id="path8579-0-1-90-1-9"
+           style="display:inline;fill:none;stroke:#999999;stroke-width:1.16819px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 13522.674,1748.5642 v 95.5272"
+           id="path8579-0-1-90-1-5"
+           style="display:inline;fill:none;stroke:#999999;stroke-width:1.16819px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 14398.318,1773.9063 v 95.5272"
+           id="path8579-0-1-90-1-0"
+           style="display:inline;fill:none;stroke:#999999;stroke-width:1.16819px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="13373.049"
+           y="1739.9429"
+           id="text2586-9-4-8-5"><desc
+             id="desc2582-4-4-8-3">model=I-SP02/VAC/IPG-02/Pressure</desc><tspan
+             sodipodi:role="line"
+             id="tspan2584-3-73-4-2"
+             x="13373.049"
+             y="1739.9429"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed'">Pressure</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="13372.326"
+           y="1720.3748"
+           id="text2580-6-2-7-5"><tspan
+             sodipodi:role="line"
+             id="tspan25968">IPG2</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="13542.85"
+           y="1766.631"
+           id="text2586-9-4-8-8"><desc
+             id="desc2582-4-4-8-2">model=I-SP02/VAC/IPFA-03/Pressure</desc><tspan
+             sodipodi:role="line"
+             id="tspan2584-3-73-4-4"
+             x="13542.85"
+             y="1766.631"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed'">Pressure</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="13542.127"
+           y="1747.0629"
+           id="text2580-6-2-7-0"><tspan
+             sodipodi:role="line"
+             id="tspan25992">IPFA3</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="14413.994"
+           y="1784.4945"
+           id="text2586-9-4-8-0"><desc
+             id="desc2582-4-4-8-1">model=I-SP02/VAC/IPFA-06/Pressure</desc><tspan
+             sodipodi:role="line"
+             id="tspan2584-3-73-4-7"
+             x="14413.994"
+             y="1784.4945"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed'">Pressure</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           x="14413.271"
+           y="1764.9264"
+           id="text2580-6-2-7-3"><tspan
+             sodipodi:role="line"
+             id="tspan26012">IPFA6</tspan></text>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol-valve"
+           id="use33894"
+           transform="rotate(90,8482.7418,7666.8168)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc34169">model=I-SP02/VAC/VGMB-04</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol-valve"
+           id="use33896"
+           transform="rotate(90,8366.8693,7549.1339)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc34087">model=I-SP02/VAC/VGMB-03</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol-valve"
+           id="use33909"
+           transform="rotate(90,8080.8092,7266.6947)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc33923">model=I-SP02/VAC/VGMB-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol-valve"
+           id="use33911"
+           transform="rotate(90,8230.1762,7414.4406)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc34005">model=I-SP02/VAC/VGMB-02</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol-valve"
+           id="use33913"
+           transform="rotate(90,8593.4564,7687.8484)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc34251">model=I-SP02/VAC/VGMB-05</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol-valve"
+           id="use33915"
+           transform="rotate(90,8576.8882,7760.9632)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc34333">model=I-SP02/VAC/VGMB-06</desc>
+        </use>
       </g>
     </g>
     <g
@@ -13509,28 +14557,6 @@
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0" />
-      <use
-         x="0"
-         y="0"
-         xlink:href="#symbol30040"
-         id="use2784"
-         transform="translate(5062.5301,479.03086)"
-         width="100%"
-         height="100%">
-        <desc
-           id="desc2864">model=i-tr1/mag/cody-01</desc>
-      </use>
-      <use
-         x="0"
-         y="0"
-         xlink:href="#symbol30062"
-         id="use2786"
-         transform="translate(5125.0912,479.03086)"
-         width="100%"
-         height="100%">
-        <desc
-           id="desc2866">model=i-tr1/mag/codx-01</desc>
-      </use>
     </g>
     <use
        id="use8849"
