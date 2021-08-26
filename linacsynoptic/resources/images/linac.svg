@@ -29,15 +29,9 @@
      width="1800"
      inkscape:bbox-nodes="false"
      inkscape:bbox-paths="true"
-<<<<<<< Updated upstream
      inkscape:current-layer="vacuum"
      inkscape:cx="2218.8686"
      inkscape:cy="1959.179"
-=======
-     inkscape:current-layer="layer10"
-     inkscape:cx="11189.731"
-     inkscape:cy="2087.4762"
->>>>>>> Stashed changes
      inkscape:document-units="px"
      inkscape:guide-bbox="true"
      inkscape:object-nodes="true"
@@ -6557,11 +6551,9 @@
            height="10000"
            id="use10476"
            style="display:inline"
-<<<<<<< Updated upstream
-           transform="rotate(0.0696058,-400667.73,432380.99)"
-=======
+
            transform="rotate(0.0696058,-400667.73,432384.55)"
->>>>>>> Stashed changes
+
            width="17000"
            x="0"
            y="0"
