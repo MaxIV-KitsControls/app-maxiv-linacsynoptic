@@ -30,8 +30,8 @@
      inkscape:bbox-nodes="false"
      inkscape:bbox-paths="true"
      inkscape:current-layer="layer10"
-     inkscape:cx="8009.6807"
-     inkscape:cy="2053.1144"
+     inkscape:cx="13130.475"
+     inkscape:cy="1814.3065"
      inkscape:document-units="px"
      inkscape:guide-bbox="true"
      inkscape:object-nodes="true"
@@ -53,12 +53,12 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-text-baseline="true"
      inkscape:snap-to-guides="true"
-     inkscape:window-height="900"
+     inkscape:window-height="798"
      inkscape:window-maximized="0"
      inkscape:window-width="1440"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:zoom="0.55233163"
+     inkscape:window-y="25"
+     inkscape:zoom="0.50542728"
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
@@ -5598,6 +5598,15 @@
            xml:space="preserve"><tspan
              sodipodi:role="line"
              id="tspan25828">BD1</tspan></text>
+        <text
+           id="text4788-6-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           transform="rotate(45)"
+           x="10585.619"
+           y="-7900.3652"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan3465">MRCH1</tspan></text>
       </g>
     </g>
     <g
@@ -14184,6 +14193,18 @@
            style="display:inline">
           <desc
              id="desc34333">model=I-SP02/VAC/VGMB-06</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol12414"
+           id="use3417"
+           transform="translate(10323.938,-87.055056)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc3467">model=I-SP02/VAC/MRCH-01</desc>
         </use>
       </g>
     </g>
