@@ -30,8 +30,8 @@
      inkscape:bbox-nodes="false"
      inkscape:bbox-paths="true"
      inkscape:current-layer="layer10"
-     inkscape:cx="13745.365"
-     inkscape:cy="1698.2551"
+     inkscape:cx="8009.6807"
+     inkscape:cy="2053.1144"
      inkscape:document-units="px"
      inkscape:guide-bbox="true"
      inkscape:object-nodes="true"
@@ -13586,7 +13586,10 @@
            transform="translate(5513.0732,311.83837)"
            width="100%"
            height="100%"
-           style="display:inline" />
+           style="display:inline">
+          <desc
+             id="desc37008">model=I-TR1/VAC/IPFA-06</desc>
+        </use>
         <use
            x="0"
            y="0"
@@ -13597,7 +13600,7 @@
            height="100%"
            style="display:inline">
           <desc
-             id="desc18285">model=I-TR1/VAC/IPFA-07</desc>
+             id="desc18285">model=I-TR1/VAC/IPFB-07</desc>
         </use>
         <use
            x="0"
@@ -13777,50 +13780,50 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-           x="7868.0664"
-           y="2306.4968"
+           x="7866.2559"
+           y="2284.7708"
            id="text19800-5"><desc
              id="desc19796-8">model=I-TR1/VAC/IPGA-03/Pressure</desc><tspan
              sodipodi:role="line"
              id="tspan19798-5"
-             x="7868.0664"
-             y="2306.4968"
+             x="7866.2559"
+             y="2284.7708"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed'">Pressure</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-           x="7967.2983"
-           y="2287.6577"
+           x="7983.2983"
+           y="2315.6577"
            id="text19800-5-5"><desc
              id="desc19796-8-4">model=I-TR1/VAC/IPGB-04/Pressure</desc><tspan
              sodipodi:role="line"
              id="tspan19798-5-3"
-             x="7967.2983"
-             y="2287.6577"
+             x="7983.2983"
+             y="2315.6577"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed'">Pressure</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-           x="8061.5122"
-           y="2287.3542"
+           x="8081.5122"
+           y="2313.3542"
            id="text19800-9"><desc
              id="desc19796-2">model=I-TR1/VAC/IPFA-05/Pressure</desc><tspan
              sodipodi:role="line"
              id="tspan19798-2"
-             x="8061.5122"
-             y="2287.3542"
+             x="8081.5122"
+             y="2313.3542"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed'">Pressure</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-           x="8157.6011"
-           y="2289.354"
+           x="8175.8955"
+           y="2309.1646"
            id="text19800-96"><desc
              id="desc19796-5">model=I-TR1/VAC/IPFA-06/Pressure</desc><tspan
              sodipodi:role="line"
              id="tspan19798-9"
-             x="8157.6011"
-             y="2289.354"
+             x="8175.8955"
+             y="2309.1646"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed'">Pressure</tspan></text>
         <text
            xml:space="preserve"
@@ -13828,7 +13831,7 @@
            x="8296.4053"
            y="2314.8"
            id="text19800-0"><desc
-             id="desc19796-88">model=I-TR1/VAC/IPFA-07/Pressure</desc><tspan
+             id="desc19796-88">model=I-TR1/VAC/IPFB-07/Pressure</desc><tspan
              sodipodi:role="line"
              id="tspan19798-3"
              x="8296.4053"
