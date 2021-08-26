@@ -30,8 +30,8 @@
      inkscape:bbox-nodes="false"
      inkscape:bbox-paths="true"
      inkscape:current-layer="layer10"
-     inkscape:cx="13130.475"
-     inkscape:cy="1814.3065"
+     inkscape:cx="13316.456"
+     inkscape:cy="1901.3616"
      inkscape:document-units="px"
      inkscape:guide-bbox="true"
      inkscape:object-nodes="true"
@@ -5598,15 +5598,6 @@
            xml:space="preserve"><tspan
              sodipodi:role="line"
              id="tspan25828">BD1</tspan></text>
-        <text
-           id="text4788-6-2"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-           transform="rotate(45)"
-           x="10585.619"
-           y="-7900.3652"
-           xml:space="preserve"><tspan
-             sodipodi:role="line"
-             id="tspan3465">MRCH1</tspan></text>
       </g>
     </g>
     <g
@@ -14206,6 +14197,15 @@
           <desc
              id="desc3467">model=I-SP02/VAC/MRCH-01</desc>
         </use>
+        <text
+           id="text4788-6-2"
+           style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           transform="rotate(45)"
+           x="10585.619"
+           y="-7900.3652"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan3465">MRCH1</tspan></text>
       </g>
     </g>
     <g
