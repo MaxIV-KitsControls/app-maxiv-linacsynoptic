@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="10000"
    id="svg2"
    preserveAspectRatio="xMinYMin meet"
@@ -17,7 +9,15 @@
    viewBox="0 0 17000 10000"
    width="17000"
    sodipodi:docname="linac.svg"
-   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      bordercolor="#666666"
      borderopacity="1.0"
@@ -29,9 +29,9 @@
      width="1800"
      inkscape:bbox-nodes="false"
      inkscape:bbox-paths="true"
-     inkscape:current-layer="vacuum"
-     inkscape:cx="2218.8686"
-     inkscape:cy="1959.179"
+     inkscape:current-layer="layer10"
+     inkscape:cx="12718.936"
+     inkscape:cy="1991.6013"
      inkscape:document-units="px"
      inkscape:guide-bbox="true"
      inkscape:object-nodes="true"
@@ -53,12 +53,12 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-text-baseline="true"
      inkscape:snap-to-guides="true"
-     inkscape:window-height="855"
+     inkscape:window-height="900"
      inkscape:window-maximized="0"
      inkscape:window-width="1440"
      inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:zoom="0.67521728"
+     inkscape:window-y="0"
+     inkscape:zoom="0.5894754"
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
@@ -137,7 +137,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -6551,9 +6550,7 @@
            height="10000"
            id="use10476"
            style="display:inline"
-
            transform="rotate(0.0696058,-400667.73,432384.55)"
-
            width="17000"
            x="0"
            y="0"
@@ -7544,6 +7541,17 @@
              y="558.67957"
              sodipodi:role="line"
              style="font-size:11.25px;line-height:1.25">COBY1</tspan></text>
+        <text
+           id="text22320-7-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="2850.5027"
+           y="584.26111"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan2455"
+             x="2850.5027"
+             y="584.26111">VGMC1</tspan></text>
         <text
            id="text22320-7-3"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -10805,6 +10813,176 @@
           <desc
              id="desc2876">model=I-MS3/MAG/CODX-02</desc>
         </use>
+        <text
+           id="text4903-7-56"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="5525.9805"
+           y="-2453.4756"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan2582-0"
+             x="5525.9805"
+             y="-2453.4756">VGMB1</tspan></text>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30062"
+           id="use2790"
+           transform="translate(4678.6515,230.73761)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc2798">model=i-ex1/mag/codx-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol30040"
+           id="use2788"
+           transform="translate(4668.0336,230.73761)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc2796">model=i-ex1/mag/cody-01</desc>
+        </use>
+        <text
+           id="text6571-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="7154.5273"
+           y="-4094.6536"
+           xml:space="preserve"><tspan
+             id="tspan6573-6"
+             x="7154.5273"
+             y="-4094.6536"
+             sodipodi:role="line"
+             style="font-size:11.25px;line-height:1.25">VGMB1</tspan></text>
+        <text
+           id="text6571-8-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="7392.9365"
+           y="-4329.9058"
+           xml:space="preserve"><tspan
+             id="tspan6573-6-4"
+             x="7392.9365"
+             y="-4329.9058"
+             sodipodi:role="line"
+             style="font-size:11.25px;line-height:1.25">VGMB1</tspan></text>
+        <text
+           id="text6571-8-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="7625.0308"
+           y="-4558.8418"
+           xml:space="preserve"><tspan
+             id="tspan6573-6-6"
+             x="7625.0308"
+             y="-4558.8418"
+             sodipodi:role="line"
+             style="font-size:11.25px;line-height:1.25">VGMB1</tspan></text>
+        <text
+           id="text6571-8-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="7855.5459"
+           y="-4789.3574"
+           xml:space="preserve"><tspan
+             id="tspan6573-6-7"
+             x="7855.5459"
+             y="-4789.3574"
+             sodipodi:role="line"
+             style="font-size:11.25px;line-height:1.25">VGMB1</tspan></text>
+        <text
+           id="text6571-8-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="8093.3853"
+           y="-5019.8394"
+           xml:space="preserve"><tspan
+             id="tspan6573-6-73"
+             x="8093.3853"
+             y="-5019.8394"
+             sodipodi:role="line"
+             style="font-size:11.25px;line-height:1.25">VGMB1</tspan></text>
+        <text
+           id="text6571-8-3-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="8325.8848"
+           y="-5253.71"
+           xml:space="preserve"><tspan
+             id="tspan6573-6-7-0"
+             x="8325.8848"
+             y="-5253.71"
+             sodipodi:role="line"
+             style="font-size:11.25px;line-height:1.25">VGMB1</tspan></text>
+        <text
+           id="text6571-8-3-0-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="8791.0615"
+           y="-5723.2246"
+           xml:space="preserve"><tspan
+             id="tspan6573-6-7-0-4"
+             x="8791.0615"
+             y="-5723.2246"
+             sodipodi:role="line"
+             style="font-size:11.25px;line-height:1.25">VGMB1</tspan></text>
+        <text
+           id="text6571-8-3-0-8-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="9402.458"
+           y="-6331.0278"
+           xml:space="preserve"><tspan
+             id="tspan6573-6-7-0-4-3"
+             x="9402.458"
+             y="-6331.0278"
+             sodipodi:role="line"
+             style="font-size:11.25px;line-height:1.25">VGMB1</tspan></text>
+        <text
+           id="text6571-8-3-0-8-8-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           transform="rotate(45)"
+           x="9868.4424"
+           y="-6429.9692"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan10171">VGMB2</tspan></text>
+        <text
+           id="text6571-8-3-0-8-8-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           transform="rotate(45)"
+           x="10183.191"
+           y="-6739.9653"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan10218">VGFA1</tspan></text>
+        <text
+           id="text6571-8-3-0-8-8-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Semi-Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="9690.7842"
+           y="-6618.9395"
+           xml:space="preserve"><tspan
+             id="tspan6573-6-7-0-4-3-4"
+             x="9690.7842"
+             y="-6618.9395"
+             sodipodi:role="line"
+             style="font-size:11.25px;line-height:1.25">VGMB1</tspan></text>
+        <text
+           id="text5583-8-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="10255.379"
+           y="-7484.0962"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan12913">VGMB2</tspan></text>
       </g>
     </g>
     <g
@@ -11612,19 +11790,6 @@
              y="-1723.22"
              sodipodi:role="line"
              style="font-size:11.2499px;line-height:1.25">VGMB3</tspan></text>
-        <g
-           id="g4638"
-           style="display:inline"
-           transform="translate(2582.6959,-1.4041)">
-          <desc
-             id="desc3920">model=I-MS2/VAC/VGMB-03</desc>
-          <path
-             d="m 2024.3041,2131.4041 h 20 l -20,30 h 20 z"
-             id="path4640"
-             style="fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             inkscape:connector-curvature="0"
-             inkscape:label="valve" />
-        </g>
         <use
            height="10000"
            id="use3731"
@@ -11799,7 +11964,7 @@
            id="use19932"
            width="100%"
            height="100%"
-           transform="rotate(89.104925,3574.4062,3049.3575)"
+           transform="rotate(89.104925,3572.9135,3049.3458)"
            style="display:inline">
           <desc
              id="desc19934">model=I-MS2/VAC/VGMB-03</desc>
@@ -12660,6 +12825,315 @@
              x="10984.317"
              y="2060.5515"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Semi-Condensed'">Pressure</tspan></text>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol-valve"
+           id="use2315"
+           transform="translate(-1070.7664,410.23832)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc2318">model=I-GS00/VAC/VGMC-01</desc>
+        </use>
+        <text
+           id="text4903-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           transform="rotate(45)"
+           x="5054.7505"
+           y="-1994.0223"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan2582">VGMB1</tspan></text>
+        <text
+           id="text4903-7-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="5275.6929"
+           y="-2201.0935"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan2582-7"
+             x="5275.6929"
+             y="-2201.0935">VGMB1</tspan></text>
+        <text
+           id="text4903-7-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="5756.3706"
+           y="-2688.0549"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan2582-71"
+             x="5756.3706"
+             y="-2688.0549">VGMB1</tspan></text>
+        <text
+           id="text4903-7-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="5993.0444"
+           y="-2920.5396"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan2582-8"
+             x="5993.0444"
+             y="-2920.5396">VGMB1</tspan></text>
+        <text
+           id="text4903-7-3-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="6225.5288"
+           y="-3159.3076"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan2582-8-6"
+             x="6225.5288"
+             y="-3159.3076">VGMB1</tspan></text>
+        <text
+           id="text4903-7-3-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="rotate(45)"
+           x="6458.0137"
+           y="-3387.6035"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan2582-8-9"
+             x="6458.0137"
+             y="-3387.6035">VGMB1</tspan></text>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol-valve"
+           id="use2697"
+           transform="translate(4726.9675,149.60171)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc2699">model=I-EX1/VAC/VGMB-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol-valve"
+           id="use2703"
+           transform="translate(6930.8018,149.60171)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc10091">model=I-S16A/VAC/VGMB-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol-valve"
+           id="use2705"
+           transform="translate(6602.5711,151.83458)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc2831">model=I-S15A/VAC/VGMB-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol-valve"
+           id="use2707"
+           transform="translate(6272.1076,149.60171)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc2829">model=I-S14A/VAC/VGMB-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol-valve"
+           id="use2709"
+           transform="translate(5943.877,149.60171)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc2827">model=I-S13A/VAC/VGMB-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol-valve"
+           id="use2711"
+           transform="translate(5613.4135,149.60171)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc2825">model=I-S12A/VAC/VGMB-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol-valve"
+           id="use2713"
+           transform="translate(5490.6062,397.44933)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc2763">model=I-TR1/VAC/VGFA-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol-valve"
+           id="use2715"
+           transform="translate(5282.95,147.36885)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc2761">model=I-S11A/VAC/VGMB-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol-valve"
+           id="use2717"
+           transform="translate(5119.9512,399.68218)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc2732">model=I-TR1/VAC/VGMB-02</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol-valve"
+           id="use2719"
+           transform="translate(4952.4865,149.60171)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc2730">model=I-S10A/VAC/VGMB-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol-valve"
+           id="use10081"
+           transform="rotate(-17.272923,7385.1336,-30469.027)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc12915">model=I-BC2/VAC/VGMB-02</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol-valve"
+           id="use10079"
+           transform="rotate(-21.544023,7508.091,-23574.06)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc12862">model=I-BC2/VAC/VGFA-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol-valve"
+           id="use10077"
+           transform="translate(8862.2268,149.136)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc10427">model=I-MS3/VAC/VGMB-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol-valve"
+           id="use10067"
+           transform="rotate(-41.871109,7999.5565,-10611.275)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc10398">model=R3-301L/VAC/VGMB-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol-valve"
+           id="use10069"
+           transform="translate(9283.5391,411.07935)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc10220">model=I-TR3/VAC/VGFA-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol-valve"
+           id="use10071"
+           transform="translate(8853.2953,410.8465)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc10151">model=I-TR3/VAC/VGMB-02</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol-valve"
+           id="use10073"
+           transform="translate(7591.7287,151.83457)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc10093">model=I-S18A/VAC/VGMB-01</desc>
+        </use>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#symbol-valve"
+           id="use10075"
+           transform="translate(8455.846,151.83457)"
+           width="100%"
+           height="100%"
+           style="display:inline">
+          <desc
+             id="desc10149">model=I-EX3/VAC/VGMB-01</desc>
+        </use>
+        <text
+           id="text5656-8"
+           style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="12409.926"
+           y="2311.1838"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan10394">VGMB1</tspan></text>
+        <text
+           id="text5583-8"
+           style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           transform="rotate(45)"
+           x="10200.548"
+           y="-7362.0215"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan12860">VGFA1</tspan></text>
       </g>
     </g>
     <g
@@ -13056,28 +13530,6 @@
          height="100%">
         <desc
            id="desc2866">model=i-tr1/mag/codx-01</desc>
-      </use>
-      <use
-         x="0"
-         y="0"
-         xlink:href="#symbol30040"
-         id="use2788"
-         transform="translate(4668.0336,230.73761)"
-         width="100%"
-         height="100%">
-        <desc
-           id="desc2796">model=i-ex1/mag/cody-01</desc>
-      </use>
-      <use
-         x="0"
-         y="0"
-         xlink:href="#symbol30062"
-         id="use2790"
-         transform="translate(4678.6515,230.73761)"
-         width="100%"
-         height="100%">
-        <desc
-           id="desc2798">model=i-ex1/mag/codx-01</desc>
       </use>
     </g>
     <use
